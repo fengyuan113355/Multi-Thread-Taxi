@@ -1,0 +1,2340 @@
+request:(41,31)------(34,40)-time-1.49500856587E12ms
+4*4:
+request:(47,37)------(10,24)-time-1.495008566024E12ms
+4*4:
+CAR:2(46,35)status:2
+request:(66,4)------(49,25)-time-1.495008566024E12ms
+4*4:
+request:(19,37)------(45,66)-time-1.495008566024E12ms
+4*4:
+CAR:7(20,35)status:2
+request:(43,43)------(26,33)-time-1.495008566024E12ms
+4*4:
+request:(0,64)------(19,25)-time-1.495008566024E12ms
+4*4:
+request:(0,13)------(45,23)-time-1.495008566024E12ms
+4*4:
+request:(28,56)------(16,3)-time-1.495008566024E12ms
+4*4:
+CAR:58(30,58)status:2
+request:(68,24)------(19,65)-time-1.495008566024E12ms
+4*4:
+request:(11,20)------(3,54)-time-1.495008566024E12ms
+4*4:
+request:(7,73)------(15,8)-time-1.495008566024E12ms
+4*4:
+request:(7,26)------(51,31)-time-1.495008566024E12ms
+4*4:
+CAR:14(9,25)status:2
+request:(1,2)------(63,8)-time-1.495008566025E12ms
+4*4:
+CAR:23(1,3)status:2
+request:(55,37)------(20,23)-time-1.495008566025E12ms
+4*4:
+CAR:30(57,35)status:2
+CAR:38(56,35)status:2
+request:(53,4)------(74,76)-time-1.495008566025E12ms
+4*4:
+request:(42,79)------(49,79)-time-1.495008566025E12ms
+4*4:
+request:(1,69)------(34,70)-time-1.495008566025E12ms
+4*4:
+request:(27,40)------(64,37)-time-1.495008566025E12ms
+4*4:
+request:(58,75)------(49,4)-time-1.495008566025E12ms
+4*4:
+request:(28,45)------(35,12)-time-1.495008566025E12ms
+4*4:
+request:(2,31)------(45,43)-time-1.495008566025E12ms
+4*4:
+request:(44,49)------(67,40)-time-1.495008566026E12ms
+4*4:
+request:(4,27)------(5,32)-time-1.495008566026E12ms
+4*4:
+request:(19,7)------(37,79)-time-1.495008566026E12ms
+4*4:
+CAR:17(21,9)status:2
+request:(51,76)------(67,74)-time-1.495008566026E12ms
+4*4:
+CAR:65(49,77)status:2
+request:(67,36)------(6,56)-time-1.495008566026E12ms
+4*4:
+CAR:61(65,34)status:2
+request:(0,47)------(25,17)-time-1.495008566026E12ms
+4*4:
+request:(22,49)------(64,31)-time-1.495008566026E12ms
+4*4:
+request:(35,39)------(70,1)-time-1.495008566026E12ms
+4*4:
+request:(68,7)------(21,79)-time-1.495008566026E12ms
+4*4:
+request:(15,21)------(64,71)-time-1.495008566027E12ms
+4*4:
+request:(60,18)------(32,38)-time-1.495008566027E12ms
+4*4:
+CAR:59(60,16)status:2
+request:(16,46)------(58,18)-time-1.495008566027E12ms
+4*4:
+request:(7,46)------(73,52)-time-1.495008566027E12ms
+4*4:
+request:(13,25)------(29,67)-time-1.495008566027E12ms
+4*4:
+request:(26,60)------(31,11)-time-1.495008566027E12ms
+4*4:
+request:(56,62)------(47,29)-time-1.495008566027E12ms
+4*4:
+CAR:96(56,61)status:2
+request:(18,45)------(13,48)-time-1.495008566027E12ms
+4*4:
+request:(74,39)------(33,5)-time-1.495008566027E12ms
+4*4:
+request:(7,69)------(23,56)-time-1.495008566027E12ms
+4*4:
+request:(74,66)------(26,2)-time-1.495008566027E12ms
+4*4:
+request:(11,41)------(12,43)-time-1.495008566028E12ms
+4*4:
+request:(37,12)------(31,77)-time-1.495008566028E12ms
+4*4:
+request:(42,65)------(51,20)-time-1.495008566028E12ms
+4*4:
+request:(4,55)------(29,34)-time-1.495008566028E12ms
+4*4:
+CAR:54(4,54)status:2
+request:(26,22)------(48,63)-time-1.495008566028E12ms
+4*4:
+request:(75,68)------(74,13)-time-1.495008566028E12ms
+4*4:
+request:(58,20)------(45,57)-time-1.495008566028E12ms
+4*4:
+request:(53,25)------(73,62)-time-1.495008566028E12ms
+4*4:
+CAR:92(55,24)status:2
+request:(36,41)------(35,35)-time-1.495008566028E12ms
+4*4:
+request:(43,76)------(68,5)-time-1.495008566028E12ms
+4*4:
+CAR:63(41,74)status:2
+request:(44,20)------(49,63)-time-1.495008566029E12ms
+4*4:
+CAR:79(42,20)status:2
+request:(28,54)------(66,69)-time-1.495008566029E12ms
+4*4:
+request:(64,22)------(33,17)-time-1.495008566029E12ms
+4*4:
+request:(20,49)------(0,68)-time-1.495008566029E12ms
+4*4:
+request:(55,36)------(39,14)-time-1.495008566029E12ms
+4*4:
+CAR:30(57,35)status:2
+CAR:38(56,35)status:2
+request:(7,58)------(57,41)-time-1.495008566029E12ms
+4*4:
+request:(52,18)------(51,16)-time-1.495008566029E12ms
+4*4:
+request:(4,79)------(0,29)-time-1.495008566029E12ms
+4*4:
+CAR:89(5,77)status:2
+request:(51,56)------(44,47)-time-1.495008566029E12ms
+4*4:
+CAR:68(49,58)status:2
+request:(36,32)------(19,58)-time-1.495008566029E12ms
+4*4:
+CAR:44(36,33)status:2
+request:(56,33)------(20,73)-time-1.49500856603E12ms
+4*4:
+CAR:30(57,35)status:2
+CAR:38(56,35)status:2
+request:(73,33)------(23,62)-time-1.49500856603E12ms
+4*4:
+CAR:4(74,34)status:2
+request:(20,55)------(8,10)-time-1.49500856603E12ms
+4*4:
+request:(49,6)------(64,24)-time-1.49500856603E12ms
+4*4:
+request:(17,8)------(31,52)-time-1.49500856603E12ms
+4*4:
+request:(19,38)------(39,74)-time-1.49500856603E12ms
+4*4:
+request:(34,67)------(56,72)-time-1.49500856603E12ms
+4*4:
+request:(63,25)------(68,5)-time-1.49500856603E12ms
+4*4:
+request:(70,11)------(62,27)-time-1.49500856603E12ms
+4*4:
+request:(0,9)------(51,15)-time-1.49500856603E12ms
+4*4:
+request:(36,50)------(37,2)-time-1.49500856603E12ms
+4*4:
+request:(74,20)------(16,31)-time-1.495008566031E12ms
+4*4:
+request:(30,31)------(59,69)-time-1.495008566031E12ms
+4*4:
+request:(77,71)------(29,79)-time-1.495008566031E12ms
+4*4:
+request:(32,72)------(74,79)-time-1.495008566031E12ms
+4*4:
+CAR:72(32,73)status:2
+request:(50,36)------(72,9)-time-1.495008566031E12ms
+4*4:
+request:(47,40)------(34,59)-time-1.495008566031E12ms
+4*4:
+request:(42,45)------(8,11)-time-1.495008566031E12ms
+4*4:
+request:(59,74)------(33,40)-time-1.495008566031E12ms
+4*4:
+CAR:11(58,72)status:2
+request:(4,38)------(46,50)-time-1.495008566031E12ms
+4*4:
+request:(63,43)------(28,70)-time-1.495008566031E12ms
+4*4:
+request:(54,38)------(38,50)-time-1.495008566031E12ms
+4*4:
+request:(78,27)------(53,23)-time-1.495008566032E12ms
+4*4:
+request:(16,70)------(37,27)-time-1.495008566032E12ms
+4*4:
+CAR:55(15,68)status:2
+request:(53,28)------(5,14)-time-1.495008566032E12ms
+4*4:
+request:(78,64)------(42,5)-time-1.495008566032E12ms
+4*4:
+request:(14,17)------(0,34)-time-1.495008566032E12ms
+4*4:
+CAR:84(14,16)status:2
+request:(68,48)------(15,53)-time-1.495008566032E12ms
+4*4:
+CAR:41(68,50)status:2
+request:(56,0)------(53,75)-time-1.495008566032E12ms
+4*4:
+request:(33,6)------(6,21)-time-1.495008566032E12ms
+4*4:
+CAR:76(32,7)status:2
+CAR:90(33,4)status:2
+request:(17,48)------(77,68)-time-1.495008566032E12ms
+4*4:
+request:(14,66)------(78,79)-time-1.495008566032E12ms
+4*4:
+CAR:55(15,68)status:2
+request:(14,27)------(42,7)-time-1.495008566033E12ms
+4*4:
+request:(30,22)------(77,34)-time-1.495008566033E12ms
+4*4:
+request:(31,44)------(71,3)-time-1.495008566033E12ms
+4*4:
+CAR:1(31,42)status:2
+request:(30,71)------(53,43)-time-1.495008566033E12ms
+4*4:
+CAR:72(32,73)status:2
+request:(46,34)------(11,25)-time-1.495008566033E12ms
+4*4:
+CAR:2(46,35)status:2
+request:(19,44)------(1,13)-time-1.495008566033E12ms
+4*4:
+request:(30,75)------(55,42)-time-1.495008566033E12ms
+4*4:
+CAR:72(32,73)status:2
+request:(0,45)------(6,41)-time-1.495008566033E12ms
+4*4:
+request:(45,57)------(53,26)-time-1.495008566033E12ms
+4*4:
+request:(47,36)------(68,38)-time-1.495008566034E12ms
+4*4:
+CAR:2(46,35)status:2
+request:(4,64)------(25,16)-time-1.495008566034E12ms
+4*4:
+CAR:48(5,65)status:2
+CAR:69(5,65)status:2
+request:(5,47)------(37,57)-time-1.495008566034E12ms
+4*4:
+request:(19,21)------(49,3)-time-1.495008566034E12ms
+4*4:
+request:(48,27)------(26,77)-time-1.495008566034E12ms
+4*4:
+CAR:51(50,29)status:2
+CAR:70(46,27)status:2
+request:(72,32)------(22,78)-time-1.495008566034E12ms
+4*4:
+CAR:4(74,34)status:2
+request:(74,26)------(3,13)-time-1.495008566034E12ms
+4*4:
+request:(70,42)------(43,12)-time-1.495008566034E12ms
+4*4:
+request:(21,62)------(21,4)-time-1.495008566034E12ms
+4*4:
+request:(32,47)------(42,76)-time-1.495008566034E12ms
+4*4:
+request:(78,43)------(34,67)-time-1.495008566035E12ms
+4*4:
+CAR:25(76,42)status:2
+CAR:94(77,42)status:2
+request:(77,45)------(76,61)-time-1.495008566035E12ms
+4*4:
+request:(60,24)------(55,11)-time-1.495008566035E12ms
+4*4:
+request:(34,51)------(31,66)-time-1.495008566035E12ms
+4*4:
+request:(63,30)------(23,30)-time-1.495008566035E12ms
+4*4:
+CAR:39(61,28)status:2
+request:(62,34)------(31,0)-time-1.495008566035E12ms
+4*4:
+request:(67,23)------(2,66)-time-1.495008566035E12ms
+4*4:
+request:(55,79)------(31,43)-time-1.495008566035E12ms
+4*4:
+CAR:97(54,77)status:2
+request:(76,15)------(66,45)-time-1.495008566035E12ms
+4*4:
+request:(47,46)------(79,12)-time-1.495008566035E12ms
+4*4:
+CAR:74(48,47)status:2
+request:(58,70)------(26,73)-time-1.495008566036E12ms
+4*4:
+CAR:11(58,72)status:2
+request:(34,40)------(37,13)-time-1.495008566036E12ms
+4*4:
+request:(36,76)------(23,1)-time-1.495008566036E12ms
+4*4:
+request:(39,70)------(54,26)-time-1.495008566036E12ms
+4*4:
+request:(46,51)------(49,34)-time-1.495008566036E12ms
+4*4:
+request:(13,2)------(12,49)-time-1.495008566036E12ms
+4*4:
+request:(36,32)------(24,59)-time-1.495008566036E12ms
+4*4:
+CAR:44(36,33)status:2
+request:(13,44)------(78,34)-time-1.495008566036E12ms
+4*4:
+request:(14,26)------(72,28)-time-1.495008566036E12ms
+4*4:
+request:(44,67)------(61,0)-time-1.495008566036E12ms
+4*4:
+request:(28,25)------(39,58)-time-1.495008566037E12ms
+4*4:
+request:(7,72)------(51,14)-time-1.495008566037E12ms
+4*4:
+request:(25,55)------(36,9)-time-1.495008566037E12ms
+4*4:
+request:(54,78)------(19,19)-time-1.495008566037E12ms
+4*4:
+CAR:97(54,77)status:2
+request:(58,18)------(8,32)-time-1.495008566037E12ms
+4*4:
+CAR:59(60,16)status:2
+request:(75,44)------(46,21)-time-1.495008566037E12ms
+4*4:
+CAR:25(76,42)status:2
+CAR:94(77,42)status:2
+request:(30,8)------(70,72)-time-1.495008566037E12ms
+4*4:
+CAR:76(32,7)status:2
+request:(2,56)------(74,17)-time-1.495008566037E12ms
+4*4:
+CAR:54(4,54)status:2
+request:(13,40)------(75,13)-time-1.495008566037E12ms
+4*4:
+CAR:20(15,40)status:2
+request:(49,77)------(26,1)-time-1.495008566037E12ms
+4*4:
+CAR:65(49,77)status:2
+request:(26,55)------(64,59)-time-1.495008566038E12ms
+4*4:
+request:(54,70)------(75,35)-time-1.495008566038E12ms
+4*4:
+request:(18,40)------(69,17)-time-1.495008566038E12ms
+4*4:
+request:(77,48)------(66,41)-time-1.495008566038E12ms
+4*4:
+request:(12,66)------(70,49)-time-1.495008566038E12ms
+4*4:
+request:(74,59)------(64,19)-time-1.495008566038E12ms
+4*4:
+request:(56,78)------(7,29)-time-1.495008566038E12ms
+4*4:
+CAR:97(54,77)status:2
+request:(24,41)------(32,22)-time-1.495008566038E12ms
+4*4:
+request:(66,54)------(9,75)-time-1.495008566038E12ms
+4*4:
+request:(18,29)------(5,8)-time-1.495008566038E12ms
+4*4:
+CAR:86(16,30)status:2
+request:(63,55)------(20,66)-time-1.495008566038E12ms
+4*4:
+request:(40,61)------(30,32)-time-1.495008566039E12ms
+4*4:
+request:(28,31)------(29,74)-time-1.495008566039E12ms
+4*4:
+CAR:40(26,30)status:2
+request:(6,48)------(68,42)-time-1.495008566039E12ms
+4*4:
+request:(68,31)------(47,16)-time-1.495008566039E12ms
+4*4:
+request:(51,33)------(40,33)-time-1.495008566039E12ms
+4*4:
+request:(72,9)------(35,31)-time-1.495008566039E12ms
+4*4:
+request:(29,57)------(39,67)-time-1.495008566039E12ms
+4*4:
+CAR:58(30,58)status:2
+request:(22,66)------(42,55)-time-1.495008566039E12ms
+4*4:
+CAR:62(22,65)status:2
+request:(15,40)------(71,48)-time-1.495008566039E12ms
+4*4:
+CAR:20(15,40)status:2
+request:(20,33)------(63,73)-time-1.495008566039E12ms
+4*4:
+CAR:7(20,35)status:2
+request:(28,12)------(41,43)-time-1.495008566039E12ms
+4*4:
+CAR:52(28,11)status:2
+request:(51,46)------(39,72)-time-1.49500856604E12ms
+4*4:
+request:(35,23)------(55,7)-time-1.49500856604E12ms
+4*4:
+request:(78,35)------(66,73)-time-1.49500856604E12ms
+4*4:
+request:(43,13)------(21,58)-time-1.49500856604E12ms
+4*4:
+request:(58,62)------(41,51)-time-1.49500856604E12ms
+4*4:
+CAR:96(56,61)status:2
+request:(21,51)------(49,28)-time-1.49500856604E12ms
+4*4:
+CAR:29(21,52)status:2
+request:(54,60)------(63,64)-time-1.49500856604E12ms
+4*4:
+CAR:96(56,61)status:2
+request:(79,1)------(52,57)-time-1.49500856604E12ms
+4*4:
+request:(74,15)------(51,73)-time-1.49500856604E12ms
+4*4:
+request:(45,16)------(16,26)-time-1.49500856604E12ms
+4*4:
+CAR:78(47,16)status:2
+request:(25,25)------(74,78)-time-1.49500856604E12ms
+4*4:
+request:(16,29)------(65,0)-time-1.495008566041E12ms
+4*4:
+CAR:86(16,30)status:2
+request:(64,62)------(70,11)-time-1.495008566041E12ms
+4*4:
+request:(48,3)------(31,57)-time-1.495008566041E12ms
+4*4:
+request:(70,69)------(19,51)-time-1.495008566041E12ms
+4*4:
+request:(19,68)------(24,8)-time-1.495008566041E12ms
+4*4:
+request:(12,39)------(6,9)-time-1.495008566041E12ms
+4*4:
+CAR:98(13,37)status:2
+request:(6,49)------(55,33)-time-1.495008566041E12ms
+4*4:
+request:(60,62)------(62,33)-time-1.495008566041E12ms
+4*4:
+request:(32,76)------(66,57)-time-1.495008566041E12ms
+4*4:
+request:(60,71)------(5,35)-time-1.495008566041E12ms
+4*4:
+CAR:11(58,72)status:2
+CAR:42(62,72)status:2
+request:(68,45)------(37,10)-time-1.495008566042E12ms
+4*4:
+request:(10,16)------(14,8)-time-1.495008566042E12ms
+4*4:
+request:(12,42)------(41,44)-time-1.495008566042E12ms
+4*4:
+request:(14,42)------(22,26)-time-1.495008566042E12ms
+4*4:
+request:(32,76)------(17,77)-time-1.495008566042E12ms
+4*4:
+request:(77,7)------(20,56)-time-1.495008566042E12ms
+4*4:
+request:(31,0)------(73,58)-time-1.495008566042E12ms
+4*4:
+request:(49,60)------(42,15)-time-1.495008566042E12ms
+4*4:
+CAR:68(49,58)status:2
+CAR:71(50,61)status:2
+request:(3,51)------(7,51)-time-1.495008566042E12ms
+4*4:
+request:(68,16)------(3,1)-time-1.495008566042E12ms
+4*4:
+CAR:57(67,17)status:2
+request:(63,5)------(76,74)-time-1.495008566043E12ms
+4*4:
+request:(52,43)------(37,50)-time-1.495008566043E12ms
+4*4:
+request:(65,39)------(65,36)-time-1.495008566043E12ms
+4*4:
+CAR:22(63,39)status:2
+request:(61,72)------(14,37)-time-1.495008566043E12ms
+4*4:
+CAR:42(62,72)status:2
+request:(50,76)------(28,54)-time-1.495008566043E12ms
+4*4:
+CAR:65(49,77)status:2
+request:(68,18)------(57,19)-time-1.495008566043E12ms
+4*4:
+CAR:57(67,17)status:2
+request:(34,11)------(74,72)-time-1.495008566043E12ms
+4*4:
+CAR:28(36,9)status:2
+request:(8,26)------(24,3)-time-1.495008566043E12ms
+4*4:
+CAR:14(9,25)status:2
+request:(62,10)------(52,5)-time-1.495008566043E12ms
+4*4:
+request:(49,47)------(56,34)-time-1.495008566044E12ms
+4*4:
+CAR:74(48,47)status:2
+request:(76,4)------(44,25)-time-1.495008566044E12ms
+4*4:
+request:(35,51)------(2,45)-time-1.495008566044E12ms
+4*4:
+request:(75,68)------(79,33)-time-1.495008566044E12ms
+4*4:
+request:(73,13)------(54,2)-time-1.495008566044E12ms
+4*4:
+request:(54,71)------(18,30)-time-1.495008566044E12ms
+4*4:
+request:(60,33)------(79,66)-time-1.495008566044E12ms
+4*4:
+request:(63,14)------(54,65)-time-1.495008566044E12ms
+4*4:
+request:(74,57)------(35,17)-time-1.495008566044E12ms
+4*4:
+request:(53,57)------(5,32)-time-1.495008566044E12ms
+4*4:
+request:(65,63)------(18,4)-time-1.495008566045E12ms
+4*4:
+request:(48,60)------(36,79)-time-1.495008566045E12ms
+4*4:
+CAR:68(49,58)status:2
+CAR:71(50,61)status:2
+request:(36,0)------(36,17)-time-1.495008566045E12ms
+4*4:
+request:(2,61)------(65,39)-time-1.495008566045E12ms
+4*4:
+CAR:45(1,61)status:2
+request:(49,58)------(61,50)-time-1.495008566045E12ms
+4*4:
+CAR:68(49,58)status:2
+request:(53,35)------(69,51)-time-1.495008566045E12ms
+4*4:
+request:(35,46)------(75,66)-time-1.495008566045E12ms
+4*4:
+request:(49,24)------(1,61)-time-1.495008566045E12ms
+4*4:
+request:(44,30)------(19,45)-time-1.495008566045E12ms
+4*4:
+request:(52,72)------(18,37)-time-1.495008566046E12ms
+4*4:
+request:(72,31)------(9,52)-time-1.495008566046E12ms
+4*4:
+request:(73,63)------(46,10)-time-1.495008566046E12ms
+4*4:
+CAR:95(71,61)status:2
+request:(30,40)------(6,70)-time-1.495008566046E12ms
+4*4:
+CAR:1(31,42)status:2
+request:(68,14)------(5,46)-time-1.495008566046E12ms
+4*4:
+request:(16,17)------(18,56)-time-1.495008566046E12ms
+4*4:
+CAR:84(14,16)status:2
+request:(2,7)------(35,21)-time-1.495008566046E12ms
+4*4:
+request:(55,20)------(9,46)-time-1.495008566046E12ms
+4*4:
+CAR:12(54,22)status:2
+request:(75,60)------(58,38)-time-1.495008566046E12ms
+4*4:
+request:(9,63)------(39,63)-time-1.495008566046E12ms
+4*4:
+CAR:10(9,65)status:2
+request:(2,67)------(26,56)-time-1.495008566047E12ms
+4*4:
+request:(5,48)------(31,4)-time-1.495008566047E12ms
+4*4:
+request:(0,68)------(11,22)-time-1.495008566047E12ms
+4*4:
+request:(20,39)------(77,72)-time-1.495008566047E12ms
+4*4:
+request:(30,72)------(15,27)-time-1.495008566047E12ms
+4*4:
+CAR:72(32,73)status:2
+request:(23,38)------(24,41)-time-1.495008566047E12ms
+4*4:
+request:(26,76)------(18,54)-time-1.495008566047E12ms
+4*4:
+request:(77,4)------(20,37)-time-1.495008566047E12ms
+4*4:
+request:(30,44)------(43,23)-time-1.495008566047E12ms
+4*4:
+CAR:1(31,42)status:2
+request:(11,5)------(42,14)-time-1.495008566048E12ms
+4*4:
+request:(14,72)------(58,15)-time-1.495008566048E12ms
+4*4:
+request:(35,35)------(63,38)-time-1.495008566048E12ms
+4*4:
+CAR:44(36,33)status:2
+request:(40,17)------(26,67)-time-1.495008566048E12ms
+4*4:
+request:(48,8)------(36,67)-time-1.495008566048E12ms
+4*4:
+request:(19,28)------(14,42)-time-1.495008566048E12ms
+4*4:
+request:(22,65)------(18,59)-time-1.495008566048E12ms
+4*4:
+CAR:50(24,63)status:2
+CAR:62(22,65)status:2
+request:(2,45)------(21,42)-time-1.495008566048E12ms
+4*4:
+request:(52,76)------(75,8)-time-1.495008566048E12ms
+4*4:
+CAR:97(54,77)status:2
+request:(32,13)------(7,78)-time-1.495008566049E12ms
+4*4:
+request:(3,10)------(62,6)-time-1.495008566049E12ms
+4*4:
+request:(68,37)------(7,50)-time-1.495008566049E12ms
+4*4:
+request:(21,13)------(49,15)-time-1.495008566049E12ms
+4*4:
+CAR:49(20,11)status:2
+request:(44,16)------(1,36)-time-1.495008566049E12ms
+4*4:
+request:(72,42)------(70,69)-time-1.495008566049E12ms
+4*4:
+request:(51,76)------(11,53)-time-1.495008566049E12ms
+4*4:
+CAR:65(49,77)status:2
+request:(19,72)------(72,56)-time-1.495008566049E12ms
+4*4:
+CAR:9(17,74)status:2
+request:(60,41)------(53,22)-time-1.495008566049E12ms
+4*4:
+CAR:67(58,39)status:2
+request:(70,79)------(45,27)-time-1.495008566049E12ms
+4*4:
+request:(38,55)------(58,43)-time-1.49500856605E12ms
+4*4:
+request:(75,26)------(67,67)-time-1.49500856605E12ms
+4*4:
+request:(56,60)------(63,43)-time-1.49500856605E12ms
+4*4:
+CAR:96(56,61)status:2
+request:(73,52)------(52,55)-time-1.49500856605E12ms
+4*4:
+request:(51,76)------(65,45)-time-1.49500856605E12ms
+4*4:
+CAR:65(49,77)status:2
+request:(61,78)------(36,0)-time-1.49500856605E12ms
+4*4:
+CAR:75(60,78)status:2
+request:(53,30)------(9,27)-time-1.49500856605E12ms
+4*4:
+request:(32,55)------(15,26)-time-1.49500856605E12ms
+4*4:
+CAR:88(33,54)status:2
+request:(2,45)------(56,2)-time-1.49500856605E12ms
+4*4:
+request:(6,2)------(30,49)-time-1.49500856605E12ms
+4*4:
+request:(58,20)------(13,64)-time-1.495008566051E12ms
+4*4:
+request:(11,35)------(16,37)-time-1.495008566051E12ms
+4*4:
+CAR:98(13,37)status:2
+request:(40,64)------(59,36)-time-1.495008566051E12ms
+4*4:
+request:(37,33)------(2,22)-time-1.495008566051E12ms
+4*4:
+CAR:44(36,33)status:2
+request:(31,50)------(69,18)-time-1.495008566051E12ms
+4*4:
+CAR:5(31,52)status:2
+request:(23,37)------(58,55)-time-1.495008566051E12ms
+4*4:
+request:(44,26)------(37,76)-time-1.495008566051E12ms
+4*4:
+CAR:70(46,27)status:2
+request:(9,26)------(53,14)-time-1.495008566051E12ms
+4*4:
+CAR:14(9,25)status:2
+request:(57,12)------(78,57)-time-1.495008566051E12ms
+4*4:
+request:(50,74)------(62,2)-time-1.495008566052E12ms
+4*4:
+request:(53,14)------(30,49)-time-1.495008566052E12ms
+4*4:
+request:(64,22)------(56,44)-time-1.495008566052E12ms
+4*4:
+request:(46,72)------(0,29)-time-1.495008566052E12ms
+4*4:
+request:(13,62)------(16,70)-time-1.495008566052E12ms
+4*4:
+request:(73,34)------(51,11)-time-1.495008566052E12ms
+4*4:
+CAR:4(74,34)status:2
+request:(57,21)------(78,14)-time-1.495008566052E12ms
+4*4:
+request:(70,8)------(22,25)-time-1.495008566052E12ms
+4*4:
+request:(36,30)------(50,19)-time-1.495008566052E12ms
+4*4:
+CAR:60(38,29)status:2
+request:(30,73)------(46,5)-time-1.495008566053E12ms
+4*4:
+CAR:72(32,73)status:2
+request:(2,33)------(24,70)-time-1.495008566053E12ms
+4*4:
+request:(70,19)------(59,35)-time-1.495008566053E12ms
+4*4:
+CAR:35(70,21)status:2
+request:(38,22)------(6,26)-time-1.495008566053E12ms
+4*4:
+CAR:32(38,22)status:2
+CAR:36(39,24)status:2
+request:(12,57)------(57,37)-time-1.495008566053E12ms
+4*4:
+request:(58,8)------(27,69)-time-1.495008566053E12ms
+4*4:
+request:(54,61)------(26,36)-time-1.495008566053E12ms
+4*4:
+CAR:96(56,61)status:2
+request:(67,34)------(64,44)-time-1.495008566054E12ms
+4*4:
+CAR:61(65,34)status:2
+request:(56,5)------(14,54)-time-1.495008566054E12ms
+4*4:
+CAR:87(56,3)status:2
+request:(47,69)------(8,42)-time-1.495008566054E12ms
+4*4:
+CAR:15(47,67)status:2
+request:(28,9)------(60,5)-time-1.495008566054E12ms
+4*4:
+CAR:52(28,11)status:2
+request:(41,31)------(34,40)-time-1.49500856587E12msDONE BY CAR44
+3s_window_send_applyCAR44-(40,29)credit:5
+3s_window_send_applyCAR60-(35,29)credit:2
+3s_window_send_applyCAR81-(38,29)credit:4
+request:(47,37)------(10,24)-time-1.495008566024E12msDONE BY CAR2
+3s_window_send_applyCAR2-(47,37)credit:4
+request:(66,4)------(49,25)-time-1.495008566024E12msDONE BY CAR47
+3s_window_send_applyCAR47-(66,3)credit:2
+request:(19,37)------(45,66)-time-1.495008566024E12msDONE BY CAR7
+3s_window_send_applyCAR7-(16,32)credit:4
+request:(43,43)------(26,33)-time-1.495008566024E12msNO CAR TAKE
+request:(0,64)------(19,25)-time-1.495008566024E12msDONE BY CAR26
+3s_window_send_applyCAR26-(0,65)credit:4
+request:(0,13)------(45,23)-time-1.495008566024E12msDONE BY CAR100
+3s_window_send_applyCAR100-(0,17)credit:2
+request:(28,56)------(16,3)-time-1.495008566024E12msDONE BY CAR88
+3s_window_send_applyCAR88-(29,55)credit:6
+request:(68,24)------(19,65)-time-1.495008566024E12msNO CAR TAKE
+request:(11,20)------(3,54)-time-1.495008566024E12msDONE BY CAR84
+3s_window_send_applyCAR84-(12,22)credit:4
+request:(7,73)------(15,8)-time-1.495008566024E12msNO CAR TAKE
+request:(7,26)------(51,31)-time-1.495008566024E12msDONE BY CAR14
+3s_window_send_applyCAR14-(9,22)credit:4
+3s_window_send_applyCAR43-(11,32)credit:3
+3s_window_send_applyCAR83-(5,22)credit:1
+request:(1,2)------(63,8)-time-1.495008566025E12msDONE BY CAR23
+3s_window_send_applyCAR23-(2,4)credit:2
+request:(55,37)------(20,23)-time-1.495008566025E12msDONE BY CAR38
+3s_window_send_applyCAR38-(54,35)credit:6
+3s_window_send_applyCAR67-(61,38)credit:2
+request:(53,4)------(74,76)-time-1.495008566025E12msDONE BY CAR19
+3s_window_send_applyCAR19-(51,6)credit:2
+request:(42,79)------(49,79)-time-1.495008566025E12msNO CAR TAKE
+request:(1,69)------(34,70)-time-1.495008566025E12msNO CAR TAKE
+request:(27,40)------(64,37)-time-1.495008566025E12msNO CAR TAKE
+request:(58,75)------(49,4)-time-1.495008566025E12msDONE BY CAR11
+3s_window_send_applyCAR11-(59,75)credit:5
+request:(28,45)------(35,12)-time-1.495008566025E12msDONE BY CAR1
+3s_window_send_applyCAR1-(30,43)credit:4
+request:(2,31)------(45,43)-time-1.495008566025E12msNO CAR TAKE
+request:(44,49)------(67,40)-time-1.495008566026E12msNO CAR TAKE
+request:(4,27)------(5,32)-time-1.495008566026E12msNO CAR TAKE
+request:(19,7)------(37,79)-time-1.495008566026E12msDONE BY CAR34
+3s_window_send_applyCAR17-(22,13)credit:2
+3s_window_send_applyCAR34-(20,6)credit:4
+request:(51,76)------(67,74)-time-1.495008566026E12msDONE BY CAR65
+3s_window_send_applyCAR65-(49,71)credit:8
+3s_window_send_applyCAR97-(55,78)credit:7
+request:(67,36)------(6,56)-time-1.495008566026E12msDONE BY CAR61
+3s_window_send_applyCAR22-(63,38)credit:4
+3s_window_send_applyCAR61-(66,33)credit:5
+request:(0,47)------(25,17)-time-1.495008566026E12msNO CAR TAKE
+request:(22,49)------(64,31)-time-1.495008566026E12msDONE BY CAR29
+3s_window_send_applyCAR29-(22,51)credit:5
+3s_window_send_applyCAR99-(28,47)credit:1
+request:(35,39)------(70,1)-time-1.495008566026E12msNO CAR TAKE
+request:(68,7)------(21,79)-time-1.495008566026E12msNO CAR TAKE
+request:(15,21)------(64,71)-time-1.495008566027E12msNO CAR TAKE
+request:(60,18)------(32,38)-time-1.495008566027E12msDONE BY CAR59
+3s_window_send_applyCAR59-(59,10)credit:5
+request:(16,46)------(58,18)-time-1.495008566027E12msNO CAR TAKE
+request:(7,46)------(73,52)-time-1.495008566027E12msNO CAR TAKE
+request:(13,25)------(29,67)-time-1.495008566027E12msNO CAR TAKE
+request:(26,60)------(31,11)-time-1.495008566027E12msDONE BY CAR50
+3s_window_send_applyCAR50-(28,65)credit:1
+request:(56,62)------(47,29)-time-1.495008566027E12msDONE BY CAR71
+3s_window_send_applyCAR66-(62,64)credit:5
+3s_window_send_applyCAR71-(53,57)credit:8
+3s_window_send_applyCAR96-(57,65)credit:6
+request:(18,45)------(13,48)-time-1.495008566027E12msNO CAR TAKE
+request:(74,39)------(33,5)-time-1.495008566027E12msDONE BY CAR94
+3s_window_send_applyCAR77-(74,37)credit:2
+3s_window_send_applyCAR94-(76,42)credit:5
+request:(7,69)------(23,56)-time-1.495008566027E12msDONE BY CAR48
+3s_window_send_applyCAR8-(9,65)credit:3
+3s_window_send_applyCAR48-(3,69)credit:3
+request:(74,66)------(26,2)-time-1.495008566027E12msNO CAR TAKE
+request:(11,41)------(12,43)-time-1.495008566028E12msDONE BY CAR98
+3s_window_send_applyCAR98-(10,36)credit:5
+request:(37,12)------(31,77)-time-1.495008566028E12msNO CAR TAKE
+request:(42,65)------(51,20)-time-1.495008566028E12msNO CAR TAKE
+request:(4,55)------(29,34)-time-1.495008566028E12msDONE BY CAR54
+3s_window_send_applyCAR45-(0,58)credit:3
+3s_window_send_applyCAR54-(5,51)credit:3
+request:(26,22)------(48,63)-time-1.495008566028E12msNO CAR TAKE
+request:(75,68)------(74,13)-time-1.495008566028E12msNO CAR TAKE
+request:(58,20)------(45,57)-time-1.495008566028E12msNO CAR TAKE
+request:(53,25)------(73,62)-time-1.495008566028E12msDONE BY CAR51
+3s_window_send_applyCAR12-(59,26)credit:3
+3s_window_send_applyCAR51-(48,27)credit:4
+3s_window_send_applyCAR92-(49,25)credit:3
+request:(36,41)------(35,35)-time-1.495008566028E12msNO CAR TAKE
+request:(43,76)------(68,5)-time-1.495008566028E12msDONE BY CAR63
+3s_window_send_applyCAR63-(35,71)credit:2
+request:(44,20)------(49,63)-time-1.495008566029E12msDONE BY CAR36
+3s_window_send_applyCAR36-(40,21)credit:2
+3s_window_send_applyCAR79-(40,21)credit:2
+request:(28,54)------(66,69)-time-1.495008566029E12msNO CAR TAKE
+request:(64,22)------(33,17)-time-1.495008566029E12msNO CAR TAKE
+request:(20,49)------(0,68)-time-1.495008566029E12msNO CAR TAKE
+request:(55,36)------(39,14)-time-1.495008566029E12msDONE BY CAR30
+3s_window_send_applyCAR30-(59,28)credit:4
+3s_window_send_applyCAR38-(55,37)credit:6
+request:(7,58)------(57,41)-time-1.495008566029E12msNO CAR TAKE
+request:(52,18)------(51,16)-time-1.495008566029E12msDONE BY CAR78
+3s_window_send_applyCAR78-(51,17)credit:3
+request:(4,79)------(0,29)-time-1.495008566029E12msDONE BY CAR89
+3s_window_send_applyCAR89-(11,79)credit:1
+request:(51,56)------(44,47)-time-1.495008566029E12msDONE BY CAR68
+3s_window_send_applyCAR68-(53,59)credit:5
+request:(36,32)------(19,58)-time-1.495008566029E12msDONE BY CAR81
+3s_window_send_applyCAR44-(41,32)credit:5
+3s_window_send_applyCAR81-(38,29)credit:4
+request:(56,33)------(20,73)-time-1.49500856603E12msNO CAR TAKE
+request:(73,33)------(23,62)-time-1.49500856603E12msDONE BY CAR4
+3s_window_send_applyCAR4-(78,37)credit:4
+request:(20,55)------(8,10)-time-1.49500856603E12msNO CAR TAKE
+request:(49,6)------(64,24)-time-1.49500856603E12msNO CAR TAKE
+request:(17,8)------(31,52)-time-1.49500856603E12msNO CAR TAKE
+request:(19,38)------(39,74)-time-1.49500856603E12msNO CAR TAKE
+request:(34,67)------(56,72)-time-1.49500856603E12msNO CAR TAKE
+request:(63,25)------(68,5)-time-1.49500856603E12msNO CAR TAKE
+request:(70,11)------(62,27)-time-1.49500856603E12msNO CAR TAKE
+request:(0,9)------(51,15)-time-1.49500856603E12msNO CAR TAKE
+request:(36,50)------(37,2)-time-1.49500856603E12msDONE BY CAR82
+3s_window_send_applyCAR82-(41,52)credit:1
+request:(74,20)------(16,31)-time-1.495008566031E12msDONE BY CAR18
+3s_window_send_applyCAR18-(77,20)credit:3
+3s_window_send_applyCAR35-(72,18)credit:2
+3s_window_send_applyCAR56-(79,23)credit:1
+request:(30,31)------(59,69)-time-1.495008566031E12msDONE BY CAR40
+3s_window_send_applyCAR40-(24,29)credit:2
+request:(77,71)------(29,79)-time-1.495008566031E12msNO CAR TAKE
+request:(32,72)------(74,79)-time-1.495008566031E12msDONE BY CAR72
+3s_window_send_applyCAR72-(26,77)credit:7
+request:(50,36)------(72,9)-time-1.495008566031E12msNO CAR TAKE
+request:(47,40)------(34,59)-time-1.495008566031E12msNO CAR TAKE
+request:(42,45)------(8,11)-time-1.495008566031E12msNO CAR TAKE
+request:(59,74)------(33,40)-time-1.495008566031E12msDONE BY CAR42
+3s_window_send_applyCAR11-(58,75)credit:5
+3s_window_send_applyCAR42-(51,72)credit:4
+request:(4,38)------(46,50)-time-1.495008566031E12msDONE BY CAR37
+3s_window_send_applyCAR37-(6,33)credit:1
+request:(63,43)------(28,70)-time-1.495008566031E12msNO CAR TAKE
+request:(54,38)------(38,50)-time-1.495008566031E12msNO CAR TAKE
+request:(78,27)------(53,23)-time-1.495008566032E12msNO CAR TAKE
+request:(16,70)------(37,27)-time-1.495008566032E12msDONE BY CAR55
+3s_window_send_applyCAR55-(22,71)credit:5
+request:(53,28)------(5,14)-time-1.495008566032E12msNO CAR TAKE
+request:(78,64)------(42,5)-time-1.495008566032E12msDONE BY CAR16
+3s_window_send_applyCAR16-(78,63)credit:1
+request:(14,17)------(0,34)-time-1.495008566032E12msNO CAR TAKE
+request:(68,48)------(15,53)-time-1.495008566032E12msDONE BY CAR41
+3s_window_send_applyCAR41-(62,52)credit:3
+request:(56,0)------(53,75)-time-1.495008566032E12msNO CAR TAKE
+request:(33,6)------(6,21)-time-1.495008566032E12msDONE BY CAR76
+3s_window_send_applyCAR28-(33,10)credit:3
+3s_window_send_applyCAR76-(28,9)credit:4
+3s_window_send_applyCAR90-(27,1)credit:2
+request:(17,48)------(77,68)-time-1.495008566032E12msNO CAR TAKE
+request:(14,66)------(78,79)-time-1.495008566032E12msDONE BY CAR10
+3s_window_send_applyCAR10-(11,65)credit:3
+3s_window_send_applyCAR55-(22,70)credit:5
+request:(14,27)------(42,7)-time-1.495008566033E12msNO CAR TAKE
+request:(30,22)------(77,34)-time-1.495008566033E12msNO CAR TAKE
+request:(31,44)------(71,3)-time-1.495008566033E12msNO CAR TAKE
+request:(30,71)------(53,43)-time-1.495008566033E12msDONE BY CAR85
+3s_window_send_applyCAR72-(28,77)credit:7
+3s_window_send_applyCAR85-(25,69)credit:1
+request:(46,34)------(11,25)-time-1.495008566033E12msNO CAR TAKE
+request:(19,44)------(1,13)-time-1.495008566033E12msNO CAR TAKE
+request:(30,75)------(55,42)-time-1.495008566033E12msNO CAR TAKE
+request:(0,45)------(6,41)-time-1.495008566033E12msNO CAR TAKE
+request:(45,57)------(53,26)-time-1.495008566033E12msDONE BY CAR27
+3s_window_send_applyCAR27-(48,56)credit:2
+request:(47,36)------(68,38)-time-1.495008566034E12msNO CAR TAKE
+request:(4,64)------(25,16)-time-1.495008566034E12msDONE BY CAR69
+3s_window_send_applyCAR48-(7,69)credit:3
+3s_window_send_applyCAR69-(6,64)credit:2
+request:(5,47)------(37,57)-time-1.495008566034E12msNO CAR TAKE
+request:(19,21)------(49,3)-time-1.495008566034E12msNO CAR TAKE
+request:(48,27)------(26,77)-time-1.495008566034E12msDONE BY CAR92
+3s_window_send_applyCAR51-(53,27)credit:4
+3s_window_send_applyCAR70-(44,20)credit:3
+3s_window_send_applyCAR92-(52,26)credit:3
+request:(72,32)------(22,78)-time-1.495008566034E12msNO CAR TAKE
+request:(74,26)------(3,13)-time-1.495008566034E12msNO CAR TAKE
+request:(70,42)------(43,12)-time-1.495008566034E12msNO CAR TAKE
+request:(21,62)------(21,4)-time-1.495008566034E12msDONE BY CAR31
+3s_window_send_applyCAR31-(23,63)credit:4
+3s_window_send_applyCAR62-(22,67)credit:4
+request:(32,47)------(42,76)-time-1.495008566034E12msNO CAR TAKE
+request:(78,43)------(34,67)-time-1.495008566035E12msDONE BY CAR25
+3s_window_send_applyCAR25-(78,47)credit:4
+3s_window_send_applyCAR94-(74,39)credit:5
+request:(77,45)------(76,61)-time-1.495008566035E12msNO CAR TAKE
+request:(60,24)------(55,11)-time-1.495008566035E12msNO CAR TAKE
+request:(34,51)------(31,66)-time-1.495008566035E12msDONE BY CAR5
+3s_window_send_applyCAR5-(30,51)credit:4
+3s_window_send_applyCAR88-(28,52)credit:6
+request:(63,30)------(23,30)-time-1.495008566035E12msDONE BY CAR39
+3s_window_send_applyCAR39-(62,27)credit:2
+request:(62,34)------(31,0)-time-1.495008566035E12msDONE BY CAR22
+3s_window_send_applyCAR22-(63,36)credit:4
+3s_window_send_applyCAR30-(59,34)credit:4
+3s_window_send_applyCAR61-(67,36)credit:5
+request:(67,23)------(2,66)-time-1.495008566035E12msNO CAR TAKE
+request:(55,79)------(31,43)-time-1.495008566035E12msDONE BY CAR97
+3s_window_send_applyCAR97-(54,79)credit:7
+request:(76,15)------(66,45)-time-1.495008566035E12msNO CAR TAKE
+request:(47,46)------(79,12)-time-1.495008566035E12msDONE BY CAR3
+3s_window_send_applyCAR3-(47,48)credit:3
+3s_window_send_applyCAR74-(51,47)credit:3
+request:(58,70)------(26,73)-time-1.495008566036E12msNO CAR TAKE
+request:(34,40)------(37,13)-time-1.495008566036E12msNO CAR TAKE
+request:(36,76)------(23,1)-time-1.495008566036E12msNO CAR TAKE
+request:(39,70)------(54,26)-time-1.495008566036E12msDONE BY CAR21
+3s_window_send_applyCAR21-(40,70)credit:2
+3s_window_send_applyCAR63-(42,71)credit:2
+request:(46,51)------(49,34)-time-1.495008566036E12msNO CAR TAKE
+request:(13,2)------(12,49)-time-1.495008566036E12msNO CAR TAKE
+request:(36,32)------(24,59)-time-1.495008566036E12msNO CAR TAKE
+request:(13,44)------(78,34)-time-1.495008566036E12msNO CAR TAKE
+request:(14,26)------(72,28)-time-1.495008566036E12msNO CAR TAKE
+request:(44,67)------(61,0)-time-1.495008566036E12msDONE BY CAR15
+3s_window_send_applyCAR15-(43,70)credit:3
+request:(28,25)------(39,58)-time-1.495008566037E12msNO CAR TAKE
+request:(7,72)------(51,14)-time-1.495008566037E12msDONE BY CAR8
+3s_window_send_applyCAR8-(7,66)credit:3
+request:(25,55)------(36,9)-time-1.495008566037E12msNO CAR TAKE
+request:(54,78)------(19,19)-time-1.495008566037E12msNO CAR TAKE
+request:(58,18)------(8,32)-time-1.495008566037E12msNO CAR TAKE
+request:(75,44)------(46,21)-time-1.495008566037E12msNO CAR TAKE
+request:(30,8)------(70,72)-time-1.495008566037E12msDONE BY CAR28
+3s_window_send_applyCAR28-(32,10)credit:3
+3s_window_send_applyCAR76-(33,8)credit:4
+request:(2,56)------(74,17)-time-1.495008566037E12msDONE BY CAR45
+3s_window_send_applyCAR45-(0,61)credit:3
+3s_window_send_applyCAR54-(7,55)credit:3
+request:(13,40)------(75,13)-time-1.495008566037E12msDONE BY CAR20
+3s_window_send_applyCAR20-(12,45)credit:6
+3s_window_send_applyCAR98-(12,43)credit:8
+request:(49,77)------(26,1)-time-1.495008566037E12msNO CAR TAKE
+request:(26,55)------(64,59)-time-1.495008566038E12msNO CAR TAKE
+request:(54,70)------(75,35)-time-1.495008566038E12msNO CAR TAKE
+request:(18,40)------(69,17)-time-1.495008566038E12msNO CAR TAKE
+request:(77,48)------(66,41)-time-1.495008566038E12msDONE BY CAR93
+3s_window_send_applyCAR25-(78,43)credit:4
+3s_window_send_applyCAR93-(76,47)credit:1
+request:(12,66)------(70,49)-time-1.495008566038E12msNO CAR TAKE
+request:(74,59)------(64,19)-time-1.495008566038E12msDONE BY CAR95
+3s_window_send_applyCAR95-(68,58)credit:4
+request:(56,78)------(7,29)-time-1.495008566038E12msNO CAR TAKE
+request:(24,41)------(32,22)-time-1.495008566038E12msNO CAR TAKE
+request:(66,54)------(9,75)-time-1.495008566038E12msNO CAR TAKE
+request:(18,29)------(5,8)-time-1.495008566038E12msDONE BY CAR86
+3s_window_send_applyCAR86-(17,31)credit:3
+request:(63,55)------(20,66)-time-1.495008566038E12msNO CAR TAKE
+request:(40,61)------(30,32)-time-1.495008566039E12msNO CAR TAKE
+request:(28,31)------(29,74)-time-1.495008566039E12msNO CAR TAKE
+request:(6,48)------(68,42)-time-1.495008566039E12msNO CAR TAKE
+request:(68,31)------(47,16)-time-1.495008566039E12msNO CAR TAKE
+request:(51,33)------(40,33)-time-1.495008566039E12msNO CAR TAKE
+request:(72,9)------(35,31)-time-1.495008566039E12msNO CAR TAKE
+request:(29,57)------(39,67)-time-1.495008566039E12msDONE BY CAR58
+3s_window_send_applyCAR58-(34,60)credit:1
+3s_window_send_applyCAR88-(28,45)credit:6
+request:(22,66)------(42,55)-time-1.495008566039E12msDONE BY CAR62
+3s_window_send_applyCAR31-(21,62)credit:4
+3s_window_send_applyCAR62-(20,69)credit:4
+request:(15,40)------(71,48)-time-1.495008566039E12msNO CAR TAKE
+request:(20,33)------(63,73)-time-1.495008566039E12msNO CAR TAKE
+request:(28,12)------(41,43)-time-1.495008566039E12msDONE BY CAR52
+3s_window_send_applyCAR52-(26,13)credit:3
+request:(51,46)------(39,72)-time-1.49500856604E12msDONE BY CAR74
+3s_window_send_applyCAR3-(47,46)credit:3
+3s_window_send_applyCAR74-(53,46)credit:3
+request:(35,23)------(55,7)-time-1.49500856604E12msDONE BY CAR32
+3s_window_send_applyCAR32-(36,25)credit:3
+request:(78,35)------(66,73)-time-1.49500856604E12msNO CAR TAKE
+request:(43,13)------(21,58)-time-1.49500856604E12msNO CAR TAKE
+request:(58,62)------(41,51)-time-1.49500856604E12msDONE BY CAR96
+3s_window_send_applyCAR6-(57,59)credit:2
+3s_window_send_applyCAR66-(67,63)credit:5
+3s_window_send_applyCAR96-(59,63)credit:6
+request:(21,51)------(49,28)-time-1.49500856604E12msNO CAR TAKE
+request:(54,60)------(63,64)-time-1.49500856604E12msNO CAR TAKE
+request:(79,1)------(52,57)-time-1.49500856604E12msNO CAR TAKE
+request:(74,15)------(51,73)-time-1.49500856604E12msNO CAR TAKE
+request:(45,16)------(16,26)-time-1.49500856604E12msNO CAR TAKE
+request:(25,25)------(74,78)-time-1.49500856604E12msNO CAR TAKE
+request:(16,29)------(65,0)-time-1.495008566041E12msNO CAR TAKE
+request:(64,62)------(70,11)-time-1.495008566041E12msDONE BY CAR66
+3s_window_send_applyCAR66-(67,63)credit:5
+request:(48,3)------(31,57)-time-1.495008566041E12msNO CAR TAKE
+request:(70,69)------(19,51)-time-1.495008566041E12msNO CAR TAKE
+request:(19,68)------(24,8)-time-1.495008566041E12msNO CAR TAKE
+request:(12,39)------(6,9)-time-1.495008566041E12msNO CAR TAKE
+request:(6,49)------(55,33)-time-1.495008566041E12msNO CAR TAKE
+request:(60,62)------(62,33)-time-1.495008566041E12msDONE BY CAR6
+3s_window_send_applyCAR6-(57,59)credit:2
+3s_window_send_applyCAR66-(67,63)credit:5
+3s_window_send_applyCAR96-(59,63)credit:6
+request:(32,76)------(66,57)-time-1.495008566041E12msNO CAR TAKE
+request:(60,71)------(5,35)-time-1.495008566041E12msNO CAR TAKE
+request:(68,45)------(37,10)-time-1.495008566042E12msNO CAR TAKE
+request:(10,16)------(14,8)-time-1.495008566042E12msNO CAR TAKE
+request:(12,42)------(41,44)-time-1.495008566042E12msNO CAR TAKE
+request:(14,42)------(22,26)-time-1.495008566042E12msNO CAR TAKE
+request:(32,76)------(17,77)-time-1.495008566042E12msNO CAR TAKE
+request:(77,7)------(20,56)-time-1.495008566042E12msNO CAR TAKE
+request:(31,0)------(73,58)-time-1.495008566042E12msDONE BY CAR90
+3s_window_send_applyCAR90-(31,1)credit:2
+request:(49,60)------(42,15)-time-1.495008566042E12msNO CAR TAKE
+request:(3,51)------(7,51)-time-1.495008566042E12msNO CAR TAKE
+request:(68,16)------(3,1)-time-1.495008566042E12msDONE BY CAR57
+3s_window_send_applyCAR57-(64,17)credit:4
+request:(63,5)------(76,74)-time-1.495008566043E12msNO CAR TAKE
+request:(52,43)------(37,50)-time-1.495008566043E12msNO CAR TAKE
+request:(65,39)------(65,36)-time-1.495008566043E12msNO CAR TAKE
+request:(61,72)------(14,37)-time-1.495008566043E12msNO CAR TAKE
+request:(50,76)------(28,54)-time-1.495008566043E12msNO CAR TAKE
+request:(68,18)------(57,19)-time-1.495008566043E12msNO CAR TAKE
+request:(34,11)------(74,72)-time-1.495008566043E12msNO CAR TAKE
+request:(8,26)------(24,3)-time-1.495008566043E12msDONE BY CAR43
+3s_window_send_applyCAR14-(16,26)credit:4
+3s_window_send_applyCAR43-(12,33)credit:3
+request:(62,10)------(52,5)-time-1.495008566043E12msNO CAR TAKE
+request:(49,47)------(56,34)-time-1.495008566044E12msNO CAR TAKE
+request:(76,4)------(44,25)-time-1.495008566044E12msNO CAR TAKE
+request:(35,51)------(2,45)-time-1.495008566044E12msNO CAR TAKE
+request:(75,68)------(79,33)-time-1.495008566044E12msNO CAR TAKE
+request:(73,13)------(54,2)-time-1.495008566044E12msNO CAR TAKE
+request:(54,71)------(18,30)-time-1.495008566044E12msNO CAR TAKE
+request:(60,33)------(79,66)-time-1.495008566044E12msNO CAR TAKE
+request:(63,14)------(54,65)-time-1.495008566044E12msNO CAR TAKE
+request:(74,57)------(35,17)-time-1.495008566044E12msNO CAR TAKE
+request:(53,57)------(5,32)-time-1.495008566044E12msNO CAR TAKE
+request:(65,63)------(18,4)-time-1.495008566045E12msNO CAR TAKE
+request:(48,60)------(36,79)-time-1.495008566045E12msNO CAR TAKE
+request:(36,0)------(36,17)-time-1.495008566045E12msNO CAR TAKE
+request:(2,61)------(65,39)-time-1.495008566045E12msNO CAR TAKE
+request:(49,58)------(61,50)-time-1.495008566045E12msNO CAR TAKE
+request:(53,35)------(69,51)-time-1.495008566045E12msNO CAR TAKE
+request:(35,46)------(75,66)-time-1.495008566045E12msNO CAR TAKE
+request:(49,24)------(1,61)-time-1.495008566045E12msDONE BY CAR70
+3s_window_send_applyCAR70-(45,23)credit:3
+3s_window_send_applyCAR92-(48,27)credit:3
+request:(44,30)------(19,45)-time-1.495008566045E12msNO CAR TAKE
+request:(52,72)------(18,37)-time-1.495008566046E12msNO CAR TAKE
+request:(72,31)------(9,52)-time-1.495008566046E12msNO CAR TAKE
+request:(73,63)------(46,10)-time-1.495008566046E12msNO CAR TAKE
+request:(30,40)------(6,70)-time-1.495008566046E12msDONE BY CAR73
+3s_window_send_applyCAR1-(35,42)credit:4
+3s_window_send_applyCAR73-(30,34)credit:1
+request:(68,14)------(5,46)-time-1.495008566046E12msNO CAR TAKE
+request:(16,17)------(18,56)-time-1.495008566046E12msNO CAR TAKE
+request:(2,7)------(35,21)-time-1.495008566046E12msNO CAR TAKE
+request:(55,20)------(9,46)-time-1.495008566046E12msDONE BY CAR12
+3s_window_send_applyCAR12-(59,25)credit:3
+request:(75,60)------(58,38)-time-1.495008566046E12msNO CAR TAKE
+request:(9,63)------(39,63)-time-1.495008566046E12msNO CAR TAKE
+request:(2,67)------(26,56)-time-1.495008566047E12msNO CAR TAKE
+request:(5,48)------(31,4)-time-1.495008566047E12msNO CAR TAKE
+request:(0,68)------(11,22)-time-1.495008566047E12msNO CAR TAKE
+request:(20,39)------(77,72)-time-1.495008566047E12msNO CAR TAKE
+request:(30,72)------(15,27)-time-1.495008566047E12msNO CAR TAKE
+request:(23,38)------(24,41)-time-1.495008566047E12msDONE BY CAR24
+3s_window_send_applyCAR24-(27,34)credit:2
+request:(26,76)------(18,54)-time-1.495008566047E12msNO CAR TAKE
+request:(77,4)------(20,37)-time-1.495008566047E12msNO CAR TAKE
+request:(30,44)------(43,23)-time-1.495008566047E12msNO CAR TAKE
+request:(11,5)------(42,14)-time-1.495008566048E12msNO CAR TAKE
+request:(14,72)------(58,15)-time-1.495008566048E12msNO CAR TAKE
+request:(35,35)------(63,38)-time-1.495008566048E12msNO CAR TAKE
+request:(40,17)------(26,67)-time-1.495008566048E12msNO CAR TAKE
+request:(48,8)------(36,67)-time-1.495008566048E12msNO CAR TAKE
+request:(19,28)------(14,42)-time-1.495008566048E12msNO CAR TAKE
+request:(22,65)------(18,59)-time-1.495008566048E12msNO CAR TAKE
+request:(2,45)------(21,42)-time-1.495008566048E12msNO CAR TAKE
+request:(52,76)------(75,8)-time-1.495008566048E12msNO CAR TAKE
+request:(32,13)------(7,78)-time-1.495008566049E12msNO CAR TAKE
+request:(3,10)------(62,6)-time-1.495008566049E12msNO CAR TAKE
+request:(68,37)------(7,50)-time-1.495008566049E12msNO CAR TAKE
+request:(21,13)------(49,15)-time-1.495008566049E12msDONE BY CAR17
+3s_window_send_applyCAR17-(24,12)credit:2
+3s_window_send_applyCAR49-(20,13)credit:1
+request:(44,16)------(1,36)-time-1.495008566049E12msDONE BY CAR78
+3s_window_send_applyCAR78-(50,17)credit:6
+request:(72,42)------(70,69)-time-1.495008566049E12msNO CAR TAKE
+request:(51,76)------(11,53)-time-1.495008566049E12msNO CAR TAKE
+request:(19,72)------(72,56)-time-1.495008566049E12msDONE BY CAR9
+3s_window_send_applyCAR9-(18,72)credit:1
+3s_window_send_applyCAR55-(19,70)credit:5
+request:(60,41)------(53,22)-time-1.495008566049E12msDONE BY CAR67
+3s_window_send_applyCAR67-(62,41)credit:2
+request:(70,79)------(45,27)-time-1.495008566049E12msNO CAR TAKE
+request:(38,55)------(58,43)-time-1.49500856605E12msNO CAR TAKE
+request:(75,26)------(67,67)-time-1.49500856605E12msNO CAR TAKE
+request:(56,60)------(63,43)-time-1.49500856605E12msDONE BY CAR64
+3s_window_send_applyCAR64-(65,58)credit:1
+3s_window_send_applyCAR66-(65,62)credit:5
+3s_window_send_applyCAR71-(56,56)credit:8
+3s_window_send_applyCAR96-(58,62)credit:6
+request:(73,52)------(52,55)-time-1.49500856605E12msNO CAR TAKE
+request:(51,76)------(65,45)-time-1.49500856605E12msNO CAR TAKE
+request:(61,78)------(36,0)-time-1.49500856605E12msDONE BY CAR75
+3s_window_send_applyCAR75-(56,74)credit:1
+request:(53,30)------(9,27)-time-1.49500856605E12msNO CAR TAKE
+request:(32,55)------(15,26)-time-1.49500856605E12msNO CAR TAKE
+request:(2,45)------(56,2)-time-1.49500856605E12msNO CAR TAKE
+request:(6,2)------(30,49)-time-1.49500856605E12msNO CAR TAKE
+request:(58,20)------(13,64)-time-1.495008566051E12msNO CAR TAKE
+request:(11,35)------(16,37)-time-1.495008566051E12msDONE BY CAR98
+3s_window_send_applyCAR98-(12,42)credit:8
+request:(40,64)------(59,36)-time-1.495008566051E12msNO CAR TAKE
+request:(37,33)------(2,22)-time-1.495008566051E12msNO CAR TAKE
+request:(31,50)------(69,18)-time-1.495008566051E12msNO CAR TAKE
+request:(23,37)------(58,55)-time-1.495008566051E12msNO CAR TAKE
+request:(44,26)------(37,76)-time-1.495008566051E12msNO CAR TAKE
+request:(9,26)------(53,14)-time-1.495008566051E12msNO CAR TAKE
+request:(57,12)------(78,57)-time-1.495008566051E12msNO CAR TAKE
+request:(50,74)------(62,2)-time-1.495008566052E12msNO CAR TAKE
+request:(53,14)------(30,49)-time-1.495008566052E12msNO CAR TAKE
+request:(64,22)------(56,44)-time-1.495008566052E12msNO CAR TAKE
+request:(46,72)------(0,29)-time-1.495008566052E12msNO CAR TAKE
+request:(13,62)------(16,70)-time-1.495008566052E12msDONE BY CAR46
+3s_window_send_applyCAR46-(17,65)credit:1
+request:(73,34)------(51,11)-time-1.495008566052E12msDONE BY CAR77
+3s_window_send_applyCAR4-(73,34)credit:4
+3s_window_send_applyCAR77-(74,36)credit:2
+request:(57,21)------(78,14)-time-1.495008566052E12msNO CAR TAKE
+request:(70,8)------(22,25)-time-1.495008566052E12msNO CAR TAKE
+request:(36,30)------(50,19)-time-1.495008566052E12msDONE BY CAR60
+3s_window_send_applyCAR60-(34,28)credit:2
+3s_window_send_applyCAR81-(36,39)credit:4
+request:(30,73)------(46,5)-time-1.495008566053E12msNO CAR TAKE
+request:(2,33)------(24,70)-time-1.495008566053E12msNO CAR TAKE
+request:(70,19)------(59,35)-time-1.495008566053E12msDONE BY CAR35
+3s_window_send_applyCAR35-(68,14)credit:2
+3s_window_send_applyCAR57-(67,17)credit:4
+request:(38,22)------(6,26)-time-1.495008566053E12msDONE BY CAR79
+3s_window_send_applyCAR32-(35,23)credit:3
+3s_window_send_applyCAR36-(49,24)credit:2
+3s_window_send_applyCAR79-(38,17)credit:2
+request:(12,57)------(57,37)-time-1.495008566053E12msNO CAR TAKE
+request:(58,8)------(27,69)-time-1.495008566053E12msNO CAR TAKE
+request:(54,61)------(26,36)-time-1.495008566053E12msNO CAR TAKE
+request:(67,34)------(64,44)-time-1.495008566054E12msNO CAR TAKE
+request:(56,5)------(14,54)-time-1.495008566054E12msDONE BY CAR87
+3s_window_send_applyCAR87-(58,7)credit:1
+request:(47,69)------(8,42)-time-1.495008566054E12msNO CAR TAKE
+request:(28,9)------(60,5)-time-1.495008566054E12msNO CAR TAKE
+request:(41,31)------(34,40)-time-1.4950086073E12ms
+4*4:
+CAR:52(43,32)status:2
+CAR:100(43,31)status:0
+request:(47,37)------(10,24)-time-1.4950086073E12ms
+4*4:
+request:(66,4)------(49,25)-time-1.4950086073E12ms
+4*4:
+CAR:63(65,6)status:2
+request:(19,37)------(45,66)-time-1.4950086073E12ms
+4*4:
+request:(43,43)------(26,33)-time-1.4950086073E12ms
+4*4:
+request:(0,64)------(19,25)-time-1.4950086073E12ms
+4*4:
+CAR:61(0,62)status:2
+request:(0,13)------(45,23)-time-1.4950086073E12ms
+4*4:
+CAR:80(0,12)status:2
+request:(28,56)------(16,3)-time-1.4950086073E12ms
+4*4:
+request:(68,24)------(19,65)-time-1.4950086073E12ms
+4*4:
+CAR:27(70,23)status:2
+request:(11,20)------(3,54)-time-1.495008607301E12ms
+4*4:
+request:(7,73)------(15,8)-time-1.495008607301E12ms
+4*4:
+request:(7,26)------(51,31)-time-1.495008607301E12ms
+4*4:
+CAR:76(7,28)status:0
+CAR:79(6,25)status:2
+CAR:89(8,28)status:2
+request:(1,2)------(63,8)-time-1.495008607301E12ms
+4*4:
+CAR:57(1,2)status:2
+request:(55,37)------(20,23)-time-1.495008607301E12ms
+4*4:
+request:(53,4)------(74,76)-time-1.495008607301E12ms
+4*4:
+CAR:11(55,2)status:2
+CAR:32(55,3)status:0
+request:(42,79)------(49,79)-time-1.495008607301E12ms
+4*4:
+request:(1,69)------(34,70)-time-1.495008607301E12ms
+4*4:
+CAR:73(0,70)status:2
+request:(27,40)------(64,37)-time-1.495008607301E12ms
+4*4:
+CAR:44(28,39)status:2
+CAR:97(25,42)status:2
+request:(58,75)------(49,4)-time-1.495008607301E12ms
+4*4:
+request:(28,45)------(35,12)-time-1.495008607301E12ms
+4*4:
+request:(2,31)------(45,43)-time-1.495008607301E12ms
+4*4:
+request:(44,49)------(67,40)-time-1.495008607301E12ms
+4*4:
+request:(4,27)------(5,32)-time-1.495008607301E12ms
+4*4:
+CAR:79(6,25)status:2
+request:(19,7)------(37,79)-time-1.495008607301E12ms
+4*4:
+request:(51,76)------(67,74)-time-1.495008607301E12ms
+4*4:
+request:(67,36)------(6,56)-time-1.495008607301E12ms
+4*4:
+CAR:93(65,35)status:2
+request:(0,47)------(25,17)-time-1.495008607302E12ms
+4*4:
+request:(22,49)------(64,31)-time-1.495008607302E12ms
+4*4:
+request:(35,39)------(70,1)-time-1.495008607305E12ms
+4*4:
+request:(68,7)------(21,79)-time-1.495008607305E12ms
+4*4:
+request:(15,21)------(64,71)-time-1.495008607305E12ms
+4*4:
+request:(60,18)------(32,38)-time-1.495008607305E12ms
+4*4:
+request:(16,46)------(58,18)-time-1.495008607305E12ms
+4*4:
+request:(7,46)------(73,52)-time-1.495008607305E12ms
+4*4:
+request:(13,25)------(29,67)-time-1.495008607305E12ms
+4*4:
+request:(26,60)------(31,11)-time-1.495008607305E12ms
+4*4:
+request:(56,62)------(47,29)-time-1.495008607305E12ms
+4*4:
+request:(18,45)------(13,48)-time-1.495008607305E12ms
+4*4:
+request:(74,39)------(33,5)-time-1.495008607305E12ms
+4*4:
+request:(7,69)------(23,56)-time-1.495008607306E12ms
+4*4:
+request:(74,66)------(26,2)-time-1.495008607306E12ms
+4*4:
+request:(11,41)------(12,43)-time-1.495008607306E12ms
+4*4:
+request:(37,12)------(31,77)-time-1.495008607306E12ms
+4*4:
+CAR:82(37,11)status:2
+request:(42,65)------(51,20)-time-1.495008607306E12ms
+4*4:
+CAR:34(42,66)status:2
+request:(4,55)------(29,34)-time-1.495008607306E12ms
+4*4:
+CAR:70(5,57)status:2
+request:(26,22)------(48,63)-time-1.495008607306E12ms
+4*4:
+CAR:69(25,20)status:2
+request:(75,68)------(74,13)-time-1.495008607306E12ms
+4*4:
+request:(58,20)------(45,57)-time-1.495008607306E12ms
+4*4:
+request:(53,25)------(73,62)-time-1.495008607306E12ms
+4*4:
+request:(36,41)------(35,35)-time-1.495008607306E12ms
+4*4:
+request:(43,76)------(68,5)-time-1.495008607306E12ms
+4*4:
+CAR:74(45,74)status:0
+request:(44,20)------(49,63)-time-1.495008607306E12ms
+4*4:
+CAR:67(42,20)status:2
+request:(28,54)------(66,69)-time-1.495008607306E12ms
+4*4:
+request:(64,22)------(33,17)-time-1.495008607306E12ms
+4*4:
+CAR:6(65,22)status:2
+request:(20,49)------(0,68)-time-1.495008607307E12ms
+4*4:
+request:(55,36)------(39,14)-time-1.495008607307E12ms
+4*4:
+CAR:14(55,34)status:2
+request:(7,58)------(57,41)-time-1.495008607307E12ms
+4*4:
+CAR:70(5,57)status:2
+request:(52,18)------(51,16)-time-1.495008607307E12ms
+4*4:
+CAR:8(50,18)status:2
+request:(4,79)------(0,29)-time-1.495008607307E12ms
+4*4:
+request:(51,56)------(44,47)-time-1.495008607307E12ms
+4*4:
+request:(36,32)------(19,58)-time-1.495008607307E12ms
+4*4:
+CAR:38(37,34)status:2
+request:(56,33)------(20,73)-time-1.495008607307E12ms
+4*4:
+CAR:14(55,34)status:2
+CAR:21(58,31)status:2
+request:(73,33)------(23,62)-time-1.495008607307E12ms
+4*4:
+request:(20,55)------(8,10)-time-1.495008607307E12ms
+4*4:
+request:(49,6)------(64,24)-time-1.495008607307E12ms
+4*4:
+CAR:60(50,7)status:2
+request:(17,8)------(31,52)-time-1.495008607307E12ms
+4*4:
+request:(19,38)------(39,74)-time-1.495008607307E12ms
+4*4:
+request:(34,67)------(56,72)-time-1.495008607307E12ms
+4*4:
+CAR:25(33,67)status:2
+request:(63,25)------(68,5)-time-1.495008607307E12ms
+4*4:
+request:(70,11)------(62,27)-time-1.495008607307E12ms
+4*4:
+CAR:20(68,11)status:2
+request:(0,9)------(51,15)-time-1.495008607307E12ms
+4*4:
+request:(36,50)------(37,2)-time-1.495008607307E12ms
+4*4:
+request:(74,20)------(16,31)-time-1.495008607307E12ms
+4*4:
+request:(30,31)------(59,69)-time-1.495008607308E12ms
+4*4:
+request:(77,71)------(29,79)-time-1.495008607308E12ms
+4*4:
+request:(32,72)------(74,79)-time-1.495008607308E12ms
+4*4:
+request:(50,36)------(72,9)-time-1.495008607308E12ms
+4*4:
+request:(47,40)------(34,59)-time-1.495008607308E12ms
+4*4:
+request:(42,45)------(8,11)-time-1.495008607308E12ms
+4*4:
+request:(59,74)------(33,40)-time-1.495008607308E12ms
+4*4:
+request:(4,38)------(46,50)-time-1.495008607308E12ms
+4*4:
+request:(63,43)------(28,70)-time-1.495008607308E12ms
+4*4:
+request:(54,38)------(38,50)-time-1.495008607308E12ms
+4*4:
+request:(78,27)------(53,23)-time-1.495008607308E12ms
+4*4:
+CAR:56(78,25)status:2
+request:(16,70)------(37,27)-time-1.495008607308E12ms
+4*4:
+request:(53,28)------(5,14)-time-1.495008607309E12ms
+4*4:
+request:(78,64)------(42,5)-time-1.495008607309E12ms
+4*4:
+request:(14,17)------(0,34)-time-1.495008607309E12ms
+4*4:
+request:(68,48)------(15,53)-time-1.495008607309E12ms
+4*4:
+request:(56,0)------(53,75)-time-1.495008607309E12ms
+4*4:
+CAR:11(55,2)status:2
+request:(33,6)------(6,21)-time-1.495008607309E12ms
+4*4:
+CAR:16(35,7)status:2
+CAR:43(32,4)status:2
+request:(17,48)------(77,68)-time-1.495008607309E12ms
+4*4:
+request:(14,66)------(78,79)-time-1.495008607309E12ms
+4*4:
+CAR:4(14,66)status:2
+request:(14,27)------(42,7)-time-1.495008607309E12ms
+4*4:
+request:(30,22)------(77,34)-time-1.495008607309E12ms
+4*4:
+request:(31,44)------(71,3)-time-1.495008607309E12ms
+4*4:
+request:(30,71)------(53,43)-time-1.495008607309E12ms
+4*4:
+request:(46,34)------(11,25)-time-1.495008607309E12ms
+4*4:
+CAR:71(45,32)status:2
+request:(19,44)------(1,13)-time-1.495008607309E12ms
+4*4:
+request:(30,75)------(55,42)-time-1.495008607309E12ms
+4*4:
+request:(0,45)------(6,41)-time-1.495008607309E12ms
+4*4:
+request:(45,57)------(53,26)-time-1.495008607309E12ms
+4*4:
+request:(47,36)------(68,38)-time-1.495008607309E12ms
+4*4:
+request:(4,64)------(25,16)-time-1.495008607309E12ms
+4*4:
+request:(5,47)------(37,57)-time-1.495008607309E12ms
+4*4:
+request:(19,21)------(49,3)-time-1.49500860731E12ms
+4*4:
+request:(48,27)------(26,77)-time-1.49500860731E12ms
+4*4:
+request:(72,32)------(22,78)-time-1.49500860731E12ms
+4*4:
+request:(74,26)------(3,13)-time-1.49500860731E12ms
+4*4:
+request:(70,42)------(43,12)-time-1.49500860731E12ms
+4*4:
+request:(21,62)------(21,4)-time-1.49500860731E12ms
+4*4:
+request:(32,47)------(42,76)-time-1.49500860731E12ms
+4*4:
+CAR:24(34,47)status:2
+request:(78,43)------(34,67)-time-1.49500860731E12ms
+4*4:
+request:(77,45)------(76,61)-time-1.49500860731E12ms
+4*4:
+request:(60,24)------(55,11)-time-1.49500860731E12ms
+4*4:
+request:(34,51)------(31,66)-time-1.49500860731E12ms
+4*4:
+request:(63,30)------(23,30)-time-1.49500860731E12ms
+4*4:
+request:(62,34)------(31,0)-time-1.49500860731E12ms
+4*4:
+request:(67,23)------(2,66)-time-1.49500860731E12ms
+4*4:
+CAR:6(65,22)status:2
+request:(55,79)------(31,43)-time-1.49500860731E12ms
+4*4:
+request:(76,15)------(66,45)-time-1.49500860731E12ms
+4*4:
+request:(47,46)------(79,12)-time-1.49500860731E12ms
+4*4:
+request:(58,70)------(26,73)-time-1.49500860731E12ms
+4*4:
+request:(34,40)------(37,13)-time-1.49500860731E12ms
+4*4:
+request:(36,76)------(23,1)-time-1.49500860731E12ms
+4*4:
+request:(39,70)------(54,26)-time-1.49500860731E12ms
+4*4:
+request:(46,51)------(49,34)-time-1.495008607311E12ms
+4*4:
+request:(13,2)------(12,49)-time-1.495008607311E12ms
+4*4:
+request:(36,32)------(24,59)-time-1.495008607311E12ms
+4*4:
+CAR:38(37,34)status:2
+request:(13,44)------(78,34)-time-1.495008607311E12ms
+4*4:
+request:(14,26)------(72,28)-time-1.495008607311E12ms
+4*4:
+request:(44,67)------(61,0)-time-1.495008607311E12ms
+4*4:
+CAR:34(42,66)status:2
+CAR:36(45,65)status:0
+request:(28,25)------(39,58)-time-1.495008607311E12ms
+4*4:
+request:(7,72)------(51,14)-time-1.495008607311E12ms
+4*4:
+request:(25,55)------(36,9)-time-1.495008607311E12ms
+4*4:
+request:(54,78)------(19,19)-time-1.495008607311E12ms
+4*4:
+request:(58,18)------(8,32)-time-1.495008607311E12ms
+4*4:
+request:(75,44)------(46,21)-time-1.495008607311E12ms
+4*4:
+request:(30,8)------(70,72)-time-1.495008607311E12ms
+4*4:
+CAR:1(28,8)status:2
+CAR:2(28,8)status:2
+request:(2,56)------(74,17)-time-1.495008607311E12ms
+4*4:
+request:(13,40)------(75,13)-time-1.495008607311E12ms
+4*4:
+request:(49,77)------(26,1)-time-1.495008607311E12ms
+4*4:
+request:(26,55)------(64,59)-time-1.495008607311E12ms
+4*4:
+request:(54,70)------(75,35)-time-1.495008607311E12ms
+4*4:
+request:(18,40)------(69,17)-time-1.495008607311E12ms
+4*4:
+CAR:99(16,41)status:2
+request:(77,48)------(66,41)-time-1.495008607311E12ms
+4*4:
+request:(12,66)------(70,49)-time-1.495008607312E12ms
+4*4:
+CAR:4(14,66)status:2
+request:(74,59)------(64,19)-time-1.495008607312E12ms
+4*4:
+request:(56,78)------(7,29)-time-1.495008607312E12ms
+4*4:
+request:(24,41)------(32,22)-time-1.495008607312E12ms
+4*4:
+CAR:97(25,42)status:2
+request:(66,54)------(9,75)-time-1.495008607312E12ms
+4*4:
+request:(18,29)------(5,8)-time-1.495008607312E12ms
+4*4:
+request:(63,55)------(20,66)-time-1.495008607312E12ms
+4*4:
+request:(40,61)------(30,32)-time-1.495008607312E12ms
+4*4:
+request:(28,31)------(29,74)-time-1.495008607312E12ms
+4*4:
+request:(6,48)------(68,42)-time-1.495008607312E12ms
+4*4:
+request:(68,31)------(47,16)-time-1.495008607312E12ms
+4*4:
+request:(51,33)------(40,33)-time-1.495008607312E12ms
+4*4:
+request:(72,9)------(35,31)-time-1.495008607312E12ms
+4*4:
+request:(29,57)------(39,67)-time-1.495008607312E12ms
+4*4:
+request:(22,66)------(42,55)-time-1.495008607312E12ms
+4*4:
+request:(15,40)------(71,48)-time-1.495008607312E12ms
+4*4:
+CAR:99(16,41)status:2
+request:(20,33)------(63,73)-time-1.495008607312E12ms
+4*4:
+request:(28,12)------(41,43)-time-1.495008607312E12ms
+4*4:
+CAR:50(27,10)status:2
+request:(51,46)------(39,72)-time-1.495008607312E12ms
+4*4:
+request:(35,23)------(55,7)-time-1.495008607312E12ms
+4*4:
+CAR:30(33,24)status:2
+request:(78,35)------(66,73)-time-1.495008607312E12ms
+4*4:
+request:(43,13)------(21,58)-time-1.495008607313E12ms
+4*4:
+request:(58,62)------(41,51)-time-1.495008607313E12ms
+4*4:
+request:(21,51)------(49,28)-time-1.495008607313E12ms
+4*4:
+request:(54,60)------(63,64)-time-1.495008607313E12ms
+4*4:
+request:(79,1)------(52,57)-time-1.495008607313E12ms
+4*4:
+request:(74,15)------(51,73)-time-1.495008607313E12ms
+4*4:
+request:(45,16)------(16,26)-time-1.495008607313E12ms
+4*4:
+CAR:53(45,17)status:2
+request:(25,25)------(74,78)-time-1.495008607313E12ms
+4*4:
+request:(16,29)------(65,0)-time-1.495008607314E12ms
+4*4:
+request:(64,62)------(70,11)-time-1.495008607314E12ms
+4*4:
+request:(48,3)------(31,57)-time-1.495008607314E12ms
+4*4:
+request:(70,69)------(19,51)-time-1.495008607314E12ms
+4*4:
+CAR:51(69,71)status:2
+request:(19,68)------(24,8)-time-1.495008607314E12ms
+4*4:
+request:(12,39)------(6,9)-time-1.495008607314E12ms
+4*4:
+request:(6,49)------(55,33)-time-1.495008607314E12ms
+4*4:
+request:(60,62)------(62,33)-time-1.495008607314E12ms
+4*4:
+request:(32,76)------(66,57)-time-1.495008607314E12ms
+4*4:
+request:(60,71)------(5,35)-time-1.495008607314E12ms
+4*4:
+request:(68,45)------(37,10)-time-1.495008607314E12ms
+4*4:
+request:(10,16)------(14,8)-time-1.495008607314E12ms
+4*4:
+request:(12,42)------(41,44)-time-1.495008607314E12ms
+4*4:
+request:(14,42)------(22,26)-time-1.495008607314E12ms
+4*4:
+CAR:99(16,41)status:2
+request:(32,76)------(17,77)-time-1.495008607314E12ms
+4*4:
+request:(77,7)------(20,56)-time-1.495008607314E12ms
+4*4:
+CAR:3(76,7)status:2
+request:(31,0)------(73,58)-time-1.495008607314E12ms
+4*4:
+CAR:22(31,2)status:2
+CAR:75(32,1)status:2
+CAR:94(29,2)status:2
+request:(49,60)------(42,15)-time-1.495008607314E12ms
+4*4:
+request:(3,51)------(7,51)-time-1.495008607314E12ms
+4*4:
+request:(68,16)------(3,1)-time-1.495008607314E12ms
+4*4:
+request:(63,5)------(76,74)-time-1.495008607314E12ms
+4*4:
+CAR:63(65,6)status:2
+request:(52,43)------(37,50)-time-1.495008607315E12ms
+4*4:
+request:(65,39)------(65,36)-time-1.495008607315E12ms
+4*4:
+request:(61,72)------(14,37)-time-1.495008607315E12ms
+4*4:
+request:(50,76)------(28,54)-time-1.495008607315E12ms
+4*4:
+request:(68,18)------(57,19)-time-1.495008607315E12ms
+4*4:
+CAR:45(67,19)status:2
+request:(34,11)------(74,72)-time-1.495008607315E12ms
+4*4:
+CAR:49(34,13)status:2
+request:(8,26)------(24,3)-time-1.495008607315E12ms
+4*4:
+CAR:76(7,28)status:0
+CAR:79(6,25)status:2
+CAR:89(8,28)status:2
+request:(62,10)------(52,5)-time-1.495008607315E12ms
+4*4:
+CAR:15(60,11)status:2
+CAR:95(63,8)status:2
+request:(49,47)------(56,34)-time-1.495008607315E12ms
+4*4:
+request:(76,4)------(44,25)-time-1.495008607315E12ms
+4*4:
+request:(35,51)------(2,45)-time-1.495008607315E12ms
+4*4:
+request:(75,68)------(79,33)-time-1.495008607315E12ms
+4*4:
+request:(73,13)------(54,2)-time-1.495008607315E12ms
+4*4:
+request:(54,71)------(18,30)-time-1.495008607315E12ms
+4*4:
+request:(60,33)------(79,66)-time-1.495008607315E12ms
+4*4:
+CAR:21(58,31)status:2
+CAR:35(59,32)status:2
+request:(63,14)------(54,65)-time-1.495008607315E12ms
+4*4:
+request:(74,57)------(35,17)-time-1.495008607315E12ms
+4*4:
+CAR:90(76,56)status:2
+request:(53,57)------(5,32)-time-1.495008607315E12ms
+4*4:
+request:(65,63)------(18,4)-time-1.495008607315E12ms
+4*4:
+request:(48,60)------(36,79)-time-1.495008607315E12ms
+4*4:
+request:(36,0)------(36,17)-time-1.495008607315E12ms
+4*4:
+request:(2,61)------(65,39)-time-1.495008607316E12ms
+4*4:
+CAR:61(0,62)status:2
+request:(49,58)------(61,50)-time-1.495008607316E12ms
+4*4:
+request:(53,35)------(69,51)-time-1.495008607316E12ms
+4*4:
+CAR:14(55,34)status:2
+request:(35,46)------(75,66)-time-1.495008607316E12ms
+4*4:
+CAR:24(34,48)status:2
+request:(49,24)------(1,61)-time-1.495008607316E12ms
+4*4:
+request:(44,30)------(19,45)-time-1.495008607316E12ms
+4*4:
+CAR:52(43,32)status:2
+CAR:71(45,32)status:2
+CAR:100(43,31)status:0
+request:(52,72)------(18,37)-time-1.495008607316E12ms
+4*4:
+request:(72,31)------(9,52)-time-1.495008607317E12ms
+4*4:
+request:(73,63)------(46,10)-time-1.495008607317E12ms
+4*4:
+request:(30,40)------(6,70)-time-1.495008607317E12ms
+4*4:
+CAR:44(28,39)status:2
+request:(68,14)------(5,46)-time-1.495008607317E12ms
+4*4:
+request:(16,17)------(18,56)-time-1.495008607317E12ms
+4*4:
+request:(2,7)------(35,21)-time-1.495008607317E12ms
+4*4:
+request:(55,20)------(9,46)-time-1.495008607317E12ms
+4*4:
+request:(75,60)------(58,38)-time-1.495008607317E12ms
+4*4:
+request:(9,63)------(39,63)-time-1.495008607317E12ms
+4*4:
+request:(2,67)------(26,56)-time-1.495008607317E12ms
+4*4:
+request:(5,48)------(31,4)-time-1.495008607317E12ms
+4*4:
+request:(0,68)------(11,22)-time-1.495008607317E12ms
+4*4:
+CAR:73(0,70)status:2
+request:(20,39)------(77,72)-time-1.495008607317E12ms
+4*4:
+request:(30,72)------(15,27)-time-1.495008607317E12ms
+4*4:
+request:(23,38)------(24,41)-time-1.495008607319E12ms
+4*4:
+request:(26,76)------(18,54)-time-1.495008607319E12ms
+4*4:
+request:(77,4)------(20,37)-time-1.495008607319E12ms
+4*4:
+request:(30,44)------(43,23)-time-1.495008607319E12ms
+4*4:
+request:(11,5)------(42,14)-time-1.495008607319E12ms
+4*4:
+request:(14,72)------(58,15)-time-1.495008607319E12ms
+4*4:
+request:(35,35)------(63,38)-time-1.49500860732E12ms
+4*4:
+CAR:38(37,34)status:2
+request:(40,17)------(26,67)-time-1.49500860732E12ms
+4*4:
+CAR:55(38,17)status:2
+request:(48,8)------(36,67)-time-1.49500860732E12ms
+4*4:
+CAR:60(50,7)status:2
+request:(19,28)------(14,42)-time-1.49500860732E12ms
+4*4:
+request:(22,65)------(18,59)-time-1.49500860732E12ms
+4*4:
+request:(2,45)------(21,42)-time-1.49500860732E12ms
+4*4:
+request:(52,76)------(75,8)-time-1.495008607322E12ms
+4*4:
+request:(32,13)------(7,78)-time-1.495008607322E12ms
+4*4:
+CAR:49(34,13)status:2
+request:(3,10)------(62,6)-time-1.495008607322E12ms
+4*4:
+request:(68,37)------(7,50)-time-1.495008607322E12ms
+4*4:
+request:(21,13)------(49,15)-time-1.495008607322E12ms
+4*4:
+request:(44,16)------(1,36)-time-1.495008607322E12ms
+4*4:
+CAR:53(45,17)status:2
+request:(72,42)------(70,69)-time-1.495008607322E12ms
+4*4:
+request:(51,76)------(11,53)-time-1.495008607322E12ms
+4*4:
+request:(19,72)------(72,56)-time-1.495008607322E12ms
+4*4:
+request:(60,41)------(53,22)-time-1.495008607322E12ms
+4*4:
+request:(70,79)------(45,27)-time-1.495008607322E12ms
+4*4:
+CAR:10(68,78)status:2
+request:(38,55)------(58,43)-time-1.495008607322E12ms
+4*4:
+CAR:96(39,55)status:2
+request:(75,26)------(67,67)-time-1.495008607322E12ms
+4*4:
+request:(56,60)------(63,43)-time-1.495008607322E12ms
+4*4:
+request:(73,52)------(52,55)-time-1.495008607323E12ms
+4*4:
+CAR:91(73,53)status:2
+request:(51,76)------(65,45)-time-1.495008607323E12ms
+4*4:
+request:(61,78)------(36,0)-time-1.495008607323E12ms
+4*4:
+request:(53,30)------(9,27)-time-1.495008607323E12ms
+4*4:
+request:(32,55)------(15,26)-time-1.495008607323E12ms
+4*4:
+request:(2,45)------(56,2)-time-1.495008607323E12ms
+4*4:
+request:(6,2)------(30,49)-time-1.495008607323E12ms
+4*4:
+CAR:86(5,3)status:2
+request:(58,20)------(13,64)-time-1.495008607323E12ms
+4*4:
+request:(11,35)------(16,37)-time-1.495008607323E12ms
+4*4:
+request:(40,64)------(59,36)-time-1.495008607323E12ms
+4*4:
+CAR:34(42,66)status:2
+request:(37,33)------(2,22)-time-1.495008607323E12ms
+4*4:
+CAR:38(37,34)status:2
+request:(31,50)------(69,18)-time-1.495008607323E12ms
+4*4:
+request:(23,37)------(58,55)-time-1.495008607323E12ms
+4*4:
+request:(44,26)------(37,76)-time-1.495008607323E12ms
+4*4:
+request:(9,26)------(53,14)-time-1.495008607323E12ms
+4*4:
+CAR:76(7,28)status:0
+CAR:89(8,28)status:2
+request:(57,12)------(78,57)-time-1.495008607323E12ms
+4*4:
+request:(50,74)------(62,2)-time-1.495008607323E12ms
+4*4:
+CAR:40(48,72)status:2
+request:(53,14)------(30,49)-time-1.495008607323E12ms
+4*4:
+request:(64,22)------(56,44)-time-1.495008607323E12ms
+4*4:
+CAR:6(65,22)status:2
+request:(46,72)------(0,29)-time-1.495008607323E12ms
+4*4:
+CAR:40(48,72)status:2
+CAR:74(45,74)status:0
+request:(13,62)------(16,70)-time-1.495008607323E12ms
+4*4:
+request:(73,34)------(51,11)-time-1.495008607323E12ms
+4*4:
+request:(57,21)------(78,14)-time-1.495008607323E12ms
+4*4:
+request:(70,8)------(22,25)-time-1.495008607323E12ms
+4*4:
+request:(36,30)------(50,19)-time-1.495008607324E12ms
+4*4:
+request:(30,73)------(46,5)-time-1.495008607324E12ms
+4*4:
+request:(2,33)------(24,70)-time-1.495008607324E12ms
+4*4:
+CAR:12(3,35)status:2
+request:(70,19)------(59,35)-time-1.495008607324E12ms
+4*4:
+CAR:66(71,17)status:2
+request:(38,22)------(6,26)-time-1.495008607324E12ms
+4*4:
+request:(12,57)------(57,37)-time-1.495008607324E12ms
+4*4:
+CAR:46(14,59)status:2
+CAR:48(12,55)status:2
+request:(58,8)------(27,69)-time-1.495008607324E12ms
+4*4:
+request:(54,61)------(26,36)-time-1.495008607324E12ms
+4*4:
+request:(67,34)------(64,44)-time-1.495008607324E12ms
+4*4:
+CAR:93(65,35)status:2
+request:(56,5)------(14,54)-time-1.495008607324E12ms
+4*4:
+CAR:32(55,3)status:0
+request:(47,69)------(8,42)-time-1.495008607324E12ms
+4*4:
+request:(28,9)------(60,5)-time-1.495008607324E12ms
+4*4:
+CAR:1(28,8)status:2
+CAR:2(28,8)status:2
+CAR:50(27,10)status:2
+request:(41,31)------(34,40)-time-1.4950086073E12msDONE BY CAR71
+3s_window_send_applyCAR52-(44,28)credit:9
+3s_window_send_applyCAR71-(41,31)credit:14
+3s_window_send_applyCAR100-(46,33)credit:9
+request:(47,37)------(10,24)-time-1.4950086073E12msNO CAR TAKE
+request:(66,4)------(49,25)-time-1.4950086073E12msDONE BY CAR63
+3s_window_send_applyCAR63-(66,4)credit:7
+request:(19,37)------(45,66)-time-1.4950086073E12msNO CAR TAKE
+request:(43,43)------(26,33)-time-1.4950086073E12msNO CAR TAKE
+request:(0,64)------(19,25)-time-1.4950086073E12msDONE BY CAR61
+3s_window_send_applyCAR61-(1,61)credit:11
+request:(0,13)------(45,23)-time-1.4950086073E12msDONE BY CAR80
+3s_window_send_applyCAR80-(3,12)credit:2
+request:(28,56)------(16,3)-time-1.4950086073E12msNO CAR TAKE
+request:(68,24)------(19,65)-time-1.4950086073E12msDONE BY CAR45
+3s_window_send_applyCAR27-(70,25)credit:7
+3s_window_send_applyCAR45-(71,24)credit:11
+request:(11,20)------(3,54)-time-1.495008607301E12msNO CAR TAKE
+request:(7,73)------(15,8)-time-1.495008607301E12msNO CAR TAKE
+request:(7,26)------(51,31)-time-1.495008607301E12msDONE BY CAR76
+3s_window_send_applyCAR39-(8,28)credit:8
+3s_window_send_applyCAR76-(4,27)credit:12
+3s_window_send_applyCAR79-(7,24)credit:8
+3s_window_send_applyCAR83-(10,26)credit:6
+3s_window_send_applyCAR89-(13,29)credit:9
+request:(1,2)------(63,8)-time-1.495008607301E12msDONE BY CAR57
+3s_window_send_applyCAR57-(0,4)credit:8
+request:(55,37)------(20,23)-time-1.495008607301E12msNO CAR TAKE
+request:(53,4)------(74,76)-time-1.495008607301E12msDONE BY CAR11
+3s_window_send_applyCAR11-(57,4)credit:12
+3s_window_send_applyCAR23-(53,5)credit:7
+3s_window_send_applyCAR32-(51,4)credit:11
+3s_window_send_applyCAR77-(51,6)credit:8
+request:(42,79)------(49,79)-time-1.495008607301E12msDONE BY CAR74
+3s_window_send_applyCAR74-(42,76)credit:9
+request:(1,69)------(34,70)-time-1.495008607301E12msDONE BY CAR73
+3s_window_send_applyCAR73-(4,67)credit:7
+request:(27,40)------(64,37)-time-1.495008607301E12msDONE BY CAR97
+3s_window_send_applyCAR26-(23,38)credit:10
+3s_window_send_applyCAR42-(29,40)credit:10
+3s_window_send_applyCAR44-(28,41)credit:10
+3s_window_send_applyCAR97-(27,42)credit:13
+request:(58,75)------(49,4)-time-1.495008607301E12msNO CAR TAKE
+request:(28,45)------(35,12)-time-1.495008607301E12msDONE BY CAR98
+3s_window_send_applyCAR97-(27,41)credit:13
+3s_window_send_applyCAR98-(23,46)credit:14
+request:(2,31)------(45,43)-time-1.495008607301E12msDONE BY CAR12
+3s_window_send_applyCAR12-(2,35)credit:8
+3s_window_send_applyCAR76-(5,27)credit:12
+request:(44,49)------(67,40)-time-1.495008607301E12msDONE BY CAR68
+3s_window_send_applyCAR59-(40,51)credit:10
+3s_window_send_applyCAR68-(42,48)credit:10
+request:(4,27)------(5,32)-time-1.495008607301E12msDONE BY CAR78
+3s_window_send_applyCAR76-(5,27)credit:12
+3s_window_send_applyCAR78-(4,24)credit:10
+3s_window_send_applyCAR79-(7,23)credit:8
+request:(19,7)------(37,79)-time-1.495008607301E12msNO CAR TAKE
+request:(51,76)------(67,74)-time-1.495008607301E12msNO CAR TAKE
+request:(67,36)------(6,56)-time-1.495008607301E12msDONE BY CAR93
+3s_window_send_applyCAR93-(64,35)credit:8
+request:(0,47)------(25,17)-time-1.495008607302E12msNO CAR TAKE
+request:(22,49)------(64,31)-time-1.495008607302E12msNO CAR TAKE
+request:(35,39)------(70,1)-time-1.495008607305E12msDONE BY CAR54
+3s_window_send_applyCAR54-(34,34)credit:10
+request:(68,7)------(21,79)-time-1.495008607305E12msDONE BY CAR20
+3s_window_send_applyCAR20-(65,9)credit:12
+request:(15,21)------(64,71)-time-1.495008607305E12msNO CAR TAKE
+request:(60,18)------(32,38)-time-1.495008607305E12msDONE BY CAR6
+3s_window_send_applyCAR6-(61,22)credit:9
+request:(16,46)------(58,18)-time-1.495008607305E12msNO CAR TAKE
+request:(7,46)------(73,52)-time-1.495008607305E12msDONE BY CAR87
+3s_window_send_applyCAR87-(14,45)credit:6
+request:(13,25)------(29,67)-time-1.495008607305E12msDONE BY CAR83
+3s_window_send_applyCAR83-(11,26)credit:6
+request:(26,60)------(31,11)-time-1.495008607305E12msNO CAR TAKE
+request:(56,62)------(47,29)-time-1.495008607305E12msNO CAR TAKE
+request:(18,45)------(13,48)-time-1.495008607305E12msNO CAR TAKE
+request:(74,39)------(33,5)-time-1.495008607305E12msNO CAR TAKE
+request:(7,69)------(23,56)-time-1.495008607306E12msNO CAR TAKE
+request:(74,66)------(26,2)-time-1.495008607306E12msNO CAR TAKE
+request:(11,41)------(12,43)-time-1.495008607306E12msNO CAR TAKE
+request:(37,12)------(31,77)-time-1.495008607306E12msDONE BY CAR82
+3s_window_send_applyCAR82-(36,12)credit:6
+request:(42,65)------(51,20)-time-1.495008607306E12msDONE BY CAR34
+3s_window_send_applyCAR34-(37,64)credit:11
+3s_window_send_applyCAR36-(39,69)credit:9
+request:(4,55)------(29,34)-time-1.495008607306E12msDONE BY CAR84
+3s_window_send_applyCAR70-(6,54)credit:9
+3s_window_send_applyCAR84-(5,55)credit:9
+request:(26,22)------(48,63)-time-1.495008607306E12msDONE BY CAR69
+3s_window_send_applyCAR69-(27,22)credit:7
+request:(75,68)------(74,13)-time-1.495008607306E12msNO CAR TAKE
+request:(58,20)------(45,57)-time-1.495008607306E12msNO CAR TAKE
+request:(53,25)------(73,62)-time-1.495008607306E12msNO CAR TAKE
+request:(36,41)------(35,35)-time-1.495008607306E12msNO CAR TAKE
+request:(43,76)------(68,5)-time-1.495008607306E12msNO CAR TAKE
+request:(44,20)------(49,63)-time-1.495008607306E12msDONE BY CAR67
+3s_window_send_applyCAR67-(44,17)credit:10
+request:(28,54)------(66,69)-time-1.495008607306E12msNO CAR TAKE
+request:(64,22)------(33,17)-time-1.495008607306E12msNO CAR TAKE
+request:(20,49)------(0,68)-time-1.495008607307E12msNO CAR TAKE
+request:(55,36)------(39,14)-time-1.495008607307E12msDONE BY CAR14
+3s_window_send_applyCAR14-(60,36)credit:11
+request:(7,58)------(57,41)-time-1.495008607307E12msDONE BY CAR70
+3s_window_send_applyCAR33-(3,64)credit:2
+3s_window_send_applyCAR70-(6,53)credit:9
+request:(52,18)------(51,16)-time-1.495008607307E12msDONE BY CAR8
+3s_window_send_applyCAR8-(50,11)credit:8
+request:(4,79)------(0,29)-time-1.495008607307E12msNO CAR TAKE
+request:(51,56)------(44,47)-time-1.495008607307E12msDONE BY CAR37
+3s_window_send_applyCAR37-(55,55)credit:6
+request:(36,32)------(19,58)-time-1.495008607307E12msDONE BY CAR38
+3s_window_send_applyCAR38-(36,30)credit:13
+request:(56,33)------(20,73)-time-1.495008607307E12msDONE BY CAR47
+3s_window_send_applyCAR14-(59,36)credit:11
+3s_window_send_applyCAR21-(60,33)credit:8
+3s_window_send_applyCAR47-(56,30)credit:9
+request:(73,33)------(23,62)-time-1.495008607307E12msNO CAR TAKE
+request:(20,55)------(8,10)-time-1.495008607307E12msNO CAR TAKE
+request:(49,6)------(64,24)-time-1.495008607307E12msDONE BY CAR32
+3s_window_send_applyCAR32-(49,3)credit:11
+3s_window_send_applyCAR60-(54,9)credit:8
+3s_window_send_applyCAR77-(51,6)credit:8
+request:(17,8)------(31,52)-time-1.495008607307E12msNO CAR TAKE
+request:(19,38)------(39,74)-time-1.495008607307E12msDONE BY CAR99
+3s_window_send_applyCAR99-(19,39)credit:10
+request:(34,67)------(56,72)-time-1.495008607307E12msDONE BY CAR25
+3s_window_send_applyCAR25-(31,67)credit:8
+3s_window_send_applyCAR58-(32,69)credit:8
+request:(63,25)------(68,5)-time-1.495008607307E12msNO CAR TAKE
+request:(70,11)------(62,27)-time-1.495008607307E12msDONE BY CAR3
+3s_window_send_applyCAR3-(71,12)credit:12
+3s_window_send_applyCAR20-(68,7)credit:12
+request:(0,9)------(51,15)-time-1.495008607307E12msNO CAR TAKE
+request:(36,50)------(37,2)-time-1.495008607307E12msDONE BY CAR24
+3s_window_send_applyCAR24-(33,53)credit:11
+request:(74,20)------(16,31)-time-1.495008607307E12msDONE BY CAR66
+3s_window_send_applyCAR29-(78,25)credit:11
+3s_window_send_applyCAR66-(71,17)credit:14
+request:(30,31)------(59,69)-time-1.495008607308E12msNO CAR TAKE
+request:(77,71)------(29,79)-time-1.495008607308E12msDONE BY CAR65
+3s_window_send_applyCAR65-(78,73)credit:12
+request:(32,72)------(74,79)-time-1.495008607308E12msDONE BY CAR58
+3s_window_send_applyCAR58-(32,70)credit:8
+request:(50,36)------(72,9)-time-1.495008607308E12msNO CAR TAKE
+request:(47,40)------(34,59)-time-1.495008607308E12msNO CAR TAKE
+request:(42,45)------(8,11)-time-1.495008607308E12msNO CAR TAKE
+request:(59,74)------(33,40)-time-1.495008607308E12msNO CAR TAKE
+request:(4,38)------(46,50)-time-1.495008607308E12msNO CAR TAKE
+request:(63,43)------(28,70)-time-1.495008607308E12msNO CAR TAKE
+request:(54,38)------(38,50)-time-1.495008607308E12msNO CAR TAKE
+request:(78,27)------(53,23)-time-1.495008607308E12msDONE BY CAR56
+3s_window_send_applyCAR56-(77,24)credit:4
+request:(16,70)------(37,27)-time-1.495008607308E12msNO CAR TAKE
+request:(53,28)------(5,14)-time-1.495008607309E12msNO CAR TAKE
+request:(78,64)------(42,5)-time-1.495008607309E12msNO CAR TAKE
+request:(14,17)------(0,34)-time-1.495008607309E12msNO CAR TAKE
+request:(68,48)------(15,53)-time-1.495008607309E12msNO CAR TAKE
+request:(56,0)------(53,75)-time-1.495008607309E12msNO CAR TAKE
+request:(33,6)------(6,21)-time-1.495008607309E12msDONE BY CAR2
+3s_window_send_applyCAR2-(32,5)credit:10
+3s_window_send_applyCAR16-(28,4)credit:6
+3s_window_send_applyCAR43-(30,2)credit:7
+request:(17,48)------(77,68)-time-1.495008607309E12msNO CAR TAKE
+request:(14,66)------(78,79)-time-1.495008607309E12msDONE BY CAR4
+3s_window_send_applyCAR4-(11,62)credit:11
+request:(14,27)------(42,7)-time-1.495008607309E12msDONE BY CAR89
+3s_window_send_applyCAR18-(12,27)credit:8
+3s_window_send_applyCAR83-(13,25)credit:6
+3s_window_send_applyCAR89-(15,33)credit:9
+request:(30,22)------(77,34)-time-1.495008607309E12msDONE BY CAR30
+3s_window_send_applyCAR30-(31,22)credit:10
+request:(31,44)------(71,3)-time-1.495008607309E12msNO CAR TAKE
+request:(30,71)------(53,43)-time-1.495008607309E12msDONE BY CAR92
+3s_window_send_applyCAR58-(32,72)credit:8
+3s_window_send_applyCAR92-(30,75)credit:11
+request:(46,34)------(11,25)-time-1.495008607309E12msDONE BY CAR100
+3s_window_send_applyCAR71-(41,39)credit:14
+3s_window_send_applyCAR100-(48,34)credit:9
+request:(19,44)------(1,13)-time-1.495008607309E12msNO CAR TAKE
+request:(30,75)------(55,42)-time-1.495008607309E12msNO CAR TAKE
+request:(0,45)------(6,41)-time-1.495008607309E12msNO CAR TAKE
+request:(45,57)------(53,26)-time-1.495008607309E12msNO CAR TAKE
+request:(47,36)------(68,38)-time-1.495008607309E12msNO CAR TAKE
+request:(4,64)------(25,16)-time-1.495008607309E12msNO CAR TAKE
+request:(5,47)------(37,57)-time-1.495008607309E12msNO CAR TAKE
+request:(19,21)------(49,3)-time-1.49500860731E12msNO CAR TAKE
+request:(48,27)------(26,77)-time-1.49500860731E12msNO CAR TAKE
+request:(72,32)------(22,78)-time-1.49500860731E12msNO CAR TAKE
+request:(74,26)------(3,13)-time-1.49500860731E12msDONE BY CAR29
+3s_window_send_applyCAR27-(70,29)credit:7
+3s_window_send_applyCAR29-(79,26)credit:11
+3s_window_send_applyCAR56-(78,25)credit:4
+request:(70,42)------(43,12)-time-1.49500860731E12msNO CAR TAKE
+request:(21,62)------(21,4)-time-1.49500860731E12msNO CAR TAKE
+request:(32,47)------(42,76)-time-1.49500860731E12msNO CAR TAKE
+request:(78,43)------(34,67)-time-1.49500860731E12msNO CAR TAKE
+request:(77,45)------(76,61)-time-1.49500860731E12msNO CAR TAKE
+request:(60,24)------(55,11)-time-1.49500860731E12msNO CAR TAKE
+request:(34,51)------(31,66)-time-1.49500860731E12msNO CAR TAKE
+request:(63,30)------(23,30)-time-1.49500860731E12msDONE BY CAR35
+3s_window_send_applyCAR35-(60,32)credit:8
+request:(62,34)------(31,0)-time-1.49500860731E12msDONE BY CAR21
+3s_window_send_applyCAR21-(62,33)credit:8
+3s_window_send_applyCAR35-(60,32)credit:8
+3s_window_send_applyCAR93-(67,36)credit:8
+request:(67,23)------(2,66)-time-1.49500860731E12msNO CAR TAKE
+request:(55,79)------(31,43)-time-1.49500860731E12msNO CAR TAKE
+request:(76,15)------(66,45)-time-1.49500860731E12msNO CAR TAKE
+request:(47,46)------(79,12)-time-1.49500860731E12msNO CAR TAKE
+request:(58,70)------(26,73)-time-1.49500860731E12msNO CAR TAKE
+request:(34,40)------(37,13)-time-1.49500860731E12msNO CAR TAKE
+request:(36,76)------(23,1)-time-1.49500860731E12msNO CAR TAKE
+request:(39,70)------(54,26)-time-1.49500860731E12msDONE BY CAR36
+3s_window_send_applyCAR36-(40,70)credit:9
+request:(46,51)------(49,34)-time-1.495008607311E12msDONE BY CAR62
+3s_window_send_applyCAR62-(44,56)credit:8
+request:(13,2)------(12,49)-time-1.495008607311E12msNO CAR TAKE
+request:(36,32)------(24,59)-time-1.495008607311E12msNO CAR TAKE
+request:(13,44)------(78,34)-time-1.495008607311E12msNO CAR TAKE
+request:(14,26)------(72,28)-time-1.495008607311E12msNO CAR TAKE
+request:(44,67)------(61,0)-time-1.495008607311E12msNO CAR TAKE
+request:(28,25)------(39,58)-time-1.495008607311E12msNO CAR TAKE
+request:(7,72)------(51,14)-time-1.495008607311E12msNO CAR TAKE
+request:(25,55)------(36,9)-time-1.495008607311E12msNO CAR TAKE
+request:(54,78)------(19,19)-time-1.495008607311E12msNO CAR TAKE
+request:(58,18)------(8,32)-time-1.495008607311E12msNO CAR TAKE
+request:(75,44)------(46,21)-time-1.495008607311E12msNO CAR TAKE
+request:(30,8)------(70,72)-time-1.495008607311E12msDONE BY CAR1
+3s_window_send_applyCAR1-(30,1)credit:9
+3s_window_send_applyCAR2-(33,6)credit:10
+3s_window_send_applyCAR13-(32,3)credit:1
+3s_window_send_applyCAR16-(27,5)credit:6
+3s_window_send_applyCAR50-(28,15)credit:7
+request:(2,56)------(74,17)-time-1.495008607311E12msNO CAR TAKE
+request:(13,40)------(75,13)-time-1.495008607311E12msNO CAR TAKE
+request:(49,77)------(26,1)-time-1.495008607311E12msNO CAR TAKE
+request:(26,55)------(64,59)-time-1.495008607311E12msNO CAR TAKE
+request:(54,70)------(75,35)-time-1.495008607311E12msNO CAR TAKE
+request:(18,40)------(69,17)-time-1.495008607311E12msNO CAR TAKE
+request:(77,48)------(66,41)-time-1.495008607311E12msNO CAR TAKE
+request:(12,66)------(70,49)-time-1.495008607312E12msNO CAR TAKE
+request:(74,59)------(64,19)-time-1.495008607312E12msDONE BY CAR90
+3s_window_send_applyCAR90-(77,59)credit:8
+request:(56,78)------(7,29)-time-1.495008607312E12msNO CAR TAKE
+request:(24,41)------(32,22)-time-1.495008607312E12msDONE BY CAR42
+3s_window_send_applyCAR42-(28,39)credit:10
+3s_window_send_applyCAR97-(34,40)credit:13
+3s_window_send_applyCAR98-(30,45)credit:14
+request:(66,54)------(9,75)-time-1.495008607312E12msNO CAR TAKE
+request:(18,29)------(5,8)-time-1.495008607312E12msNO CAR TAKE
+request:(63,55)------(20,66)-time-1.495008607312E12msDONE BY CAR85
+3s_window_send_applyCAR85-(61,56)credit:5
+request:(40,61)------(30,32)-time-1.495008607312E12msDONE BY CAR5
+3s_window_send_applyCAR5-(37,62)credit:9
+3s_window_send_applyCAR34-(42,65)credit:11
+request:(28,31)------(29,74)-time-1.495008607312E12msNO CAR TAKE
+request:(6,48)------(68,42)-time-1.495008607312E12msNO CAR TAKE
+request:(68,31)------(47,16)-time-1.495008607312E12msNO CAR TAKE
+request:(51,33)------(40,33)-time-1.495008607312E12msNO CAR TAKE
+request:(72,9)------(35,31)-time-1.495008607312E12msNO CAR TAKE
+request:(29,57)------(39,67)-time-1.495008607312E12msNO CAR TAKE
+request:(22,66)------(42,55)-time-1.495008607312E12msNO CAR TAKE
+request:(15,40)------(71,48)-time-1.495008607312E12msNO CAR TAKE
+request:(20,33)------(63,73)-time-1.495008607312E12msNO CAR TAKE
+request:(28,12)------(41,43)-time-1.495008607312E12msDONE BY CAR50
+3s_window_send_applyCAR49-(29,15)credit:5
+3s_window_send_applyCAR50-(28,15)credit:7
+request:(51,46)------(39,72)-time-1.495008607312E12msNO CAR TAKE
+request:(35,23)------(55,7)-time-1.495008607312E12msDONE BY CAR55
+3s_window_send_applyCAR30-(30,22)credit:10
+3s_window_send_applyCAR55-(38,22)credit:11
+request:(78,35)------(66,73)-time-1.495008607312E12msNO CAR TAKE
+request:(43,13)------(21,58)-time-1.495008607313E12msDONE BY CAR53
+3s_window_send_applyCAR53-(44,16)credit:4
+3s_window_send_applyCAR67-(44,20)credit:10
+request:(58,62)------(41,51)-time-1.495008607313E12msNO CAR TAKE
+request:(21,51)------(49,28)-time-1.495008607313E12msNO CAR TAKE
+request:(54,60)------(63,64)-time-1.495008607313E12msNO CAR TAKE
+request:(79,1)------(52,57)-time-1.495008607313E12msNO CAR TAKE
+request:(74,15)------(51,73)-time-1.495008607313E12msNO CAR TAKE
+request:(45,16)------(16,26)-time-1.495008607313E12msNO CAR TAKE
+request:(25,25)------(74,78)-time-1.495008607313E12msNO CAR TAKE
+request:(16,29)------(65,0)-time-1.495008607314E12msDONE BY CAR18
+3s_window_send_applyCAR18-(10,27)credit:8
+request:(64,62)------(70,11)-time-1.495008607314E12msNO CAR TAKE
+request:(48,3)------(31,57)-time-1.495008607314E12msNO CAR TAKE
+request:(70,69)------(19,51)-time-1.495008607314E12msDONE BY CAR51
+3s_window_send_applyCAR51-(68,75)credit:8
+request:(19,68)------(24,8)-time-1.495008607314E12msNO CAR TAKE
+request:(12,39)------(6,9)-time-1.495008607314E12msNO CAR TAKE
+request:(6,49)------(55,33)-time-1.495008607314E12msNO CAR TAKE
+request:(60,62)------(62,33)-time-1.495008607314E12msNO CAR TAKE
+request:(32,76)------(66,57)-time-1.495008607314E12msNO CAR TAKE
+request:(60,71)------(5,35)-time-1.495008607314E12msNO CAR TAKE
+request:(68,45)------(37,10)-time-1.495008607314E12msNO CAR TAKE
+request:(10,16)------(14,8)-time-1.495008607314E12msNO CAR TAKE
+request:(12,42)------(41,44)-time-1.495008607314E12msNO CAR TAKE
+request:(14,42)------(22,26)-time-1.495008607314E12msNO CAR TAKE
+request:(32,76)------(17,77)-time-1.495008607314E12msNO CAR TAKE
+request:(77,7)------(20,56)-time-1.495008607314E12msNO CAR TAKE
+request:(31,0)------(73,58)-time-1.495008607314E12msDONE BY CAR94
+3s_window_send_applyCAR22-(32,7)credit:8
+3s_window_send_applyCAR75-(31,3)credit:6
+3s_window_send_applyCAR94-(28,1)credit:9
+request:(49,60)------(42,15)-time-1.495008607314E12msNO CAR TAKE
+request:(3,51)------(7,51)-time-1.495008607314E12msNO CAR TAKE
+request:(68,16)------(3,1)-time-1.495008607314E12msNO CAR TAKE
+request:(63,5)------(76,74)-time-1.495008607314E12msDONE BY CAR95
+3s_window_send_applyCAR63-(66,17)credit:7
+3s_window_send_applyCAR95-(57,5)credit:10
+request:(52,43)------(37,50)-time-1.495008607315E12msNO CAR TAKE
+request:(65,39)------(65,36)-time-1.495008607315E12msNO CAR TAKE
+request:(61,72)------(14,37)-time-1.495008607315E12msNO CAR TAKE
+request:(50,76)------(28,54)-time-1.495008607315E12msNO CAR TAKE
+request:(68,18)------(57,19)-time-1.495008607315E12msNO CAR TAKE
+request:(34,11)------(74,72)-time-1.495008607315E12msDONE BY CAR49
+3s_window_send_applyCAR49-(29,14)credit:5
+3s_window_send_applyCAR82-(37,17)credit:6
+request:(8,26)------(24,3)-time-1.495008607315E12msDONE BY CAR79
+3s_window_send_applyCAR39-(12,20)credit:8
+3s_window_send_applyCAR76-(15,26)credit:12
+3s_window_send_applyCAR79-(9,24)credit:8
+3s_window_send_applyCAR83-(17,25)credit:6
+3s_window_send_applyCAR89-(15,27)credit:9
+request:(62,10)------(52,5)-time-1.495008607315E12msDONE BY CAR15
+3s_window_send_applyCAR15-(61,20)credit:9
+3s_window_send_applyCAR95-(58,5)credit:10
+request:(49,47)------(56,34)-time-1.495008607315E12msNO CAR TAKE
+request:(76,4)------(44,25)-time-1.495008607315E12msNO CAR TAKE
+request:(35,51)------(2,45)-time-1.495008607315E12msDONE BY CAR96
+3s_window_send_applyCAR24-(36,50)credit:11
+3s_window_send_applyCAR96-(43,48)credit:11
+request:(75,68)------(79,33)-time-1.495008607315E12msNO CAR TAKE
+request:(73,13)------(54,2)-time-1.495008607315E12msNO CAR TAKE
+request:(54,71)------(18,30)-time-1.495008607315E12msNO CAR TAKE
+request:(60,33)------(79,66)-time-1.495008607315E12msNO CAR TAKE
+request:(63,14)------(54,65)-time-1.495008607315E12msNO CAR TAKE
+request:(74,57)------(35,17)-time-1.495008607315E12msNO CAR TAKE
+request:(53,57)------(5,32)-time-1.495008607315E12msNO CAR TAKE
+request:(65,63)------(18,4)-time-1.495008607315E12msNO CAR TAKE
+request:(48,60)------(36,79)-time-1.495008607315E12msNO CAR TAKE
+request:(36,0)------(36,17)-time-1.495008607315E12msDONE BY CAR75
+3s_window_send_applyCAR75-(30,3)credit:6
+request:(2,61)------(65,39)-time-1.495008607316E12msDONE BY CAR33
+3s_window_send_applyCAR33-(5,63)credit:2
+3s_window_send_applyCAR61-(9,64)credit:11
+request:(49,58)------(61,50)-time-1.495008607316E12msNO CAR TAKE
+request:(53,35)------(69,51)-time-1.495008607316E12msNO CAR TAKE
+request:(35,46)------(75,66)-time-1.495008607316E12msNO CAR TAKE
+request:(49,24)------(1,61)-time-1.495008607316E12msNO CAR TAKE
+request:(44,30)------(19,45)-time-1.495008607316E12msDONE BY CAR52
+3s_window_send_applyCAR52-(41,27)credit:9
+3s_window_send_applyCAR71-(36,40)credit:14
+3s_window_send_applyCAR100-(46,34)credit:9
+request:(52,72)------(18,37)-time-1.495008607316E12msNO CAR TAKE
+request:(72,31)------(9,52)-time-1.495008607317E12msNO CAR TAKE
+request:(73,63)------(46,10)-time-1.495008607317E12msNO CAR TAKE
+request:(30,40)------(6,70)-time-1.495008607317E12msDONE BY CAR44
+3s_window_send_applyCAR42-(26,41)credit:10
+3s_window_send_applyCAR44-(31,42)credit:10
+3s_window_send_applyCAR54-(37,39)credit:10
+request:(68,14)------(5,46)-time-1.495008607317E12msNO CAR TAKE
+request:(16,17)------(18,56)-time-1.495008607317E12msNO CAR TAKE
+request:(2,7)------(35,21)-time-1.495008607317E12msNO CAR TAKE
+request:(55,20)------(9,46)-time-1.495008607317E12msNO CAR TAKE
+request:(75,60)------(58,38)-time-1.495008607317E12msNO CAR TAKE
+request:(9,63)------(39,63)-time-1.495008607317E12msNO CAR TAKE
+request:(2,67)------(26,56)-time-1.495008607317E12msNO CAR TAKE
+request:(5,48)------(31,4)-time-1.495008607317E12msNO CAR TAKE
+request:(0,68)------(11,22)-time-1.495008607317E12msNO CAR TAKE
+request:(20,39)------(77,72)-time-1.495008607317E12msNO CAR TAKE
+request:(30,72)------(15,27)-time-1.495008607317E12msNO CAR TAKE
+request:(23,38)------(24,41)-time-1.495008607319E12msDONE BY CAR26
+3s_window_send_applyCAR26-(27,37)credit:10
+request:(26,76)------(18,54)-time-1.495008607319E12msNO CAR TAKE
+request:(77,4)------(20,37)-time-1.495008607319E12msNO CAR TAKE
+request:(30,44)------(43,23)-time-1.495008607319E12msNO CAR TAKE
+request:(11,5)------(42,14)-time-1.495008607319E12msNO CAR TAKE
+request:(14,72)------(58,15)-time-1.495008607319E12msNO CAR TAKE
+request:(35,35)------(63,38)-time-1.49500860732E12msNO CAR TAKE
+request:(40,17)------(26,67)-time-1.49500860732E12msNO CAR TAKE
+request:(48,8)------(36,67)-time-1.49500860732E12msDONE BY CAR77
+3s_window_send_applyCAR60-(55,8)credit:8
+3s_window_send_applyCAR77-(49,8)credit:8
+request:(19,28)------(14,42)-time-1.49500860732E12msNO CAR TAKE
+request:(22,65)------(18,59)-time-1.49500860732E12msNO CAR TAKE
+request:(2,45)------(21,42)-time-1.49500860732E12msNO CAR TAKE
+request:(52,76)------(75,8)-time-1.495008607322E12msNO CAR TAKE
+request:(32,13)------(7,78)-time-1.495008607322E12msNO CAR TAKE
+request:(3,10)------(62,6)-time-1.495008607322E12msNO CAR TAKE
+request:(68,37)------(7,50)-time-1.495008607322E12msNO CAR TAKE
+request:(21,13)------(49,15)-time-1.495008607322E12msNO CAR TAKE
+request:(44,16)------(1,36)-time-1.495008607322E12msNO CAR TAKE
+request:(72,42)------(70,69)-time-1.495008607322E12msNO CAR TAKE
+request:(51,76)------(11,53)-time-1.495008607322E12msNO CAR TAKE
+request:(19,72)------(72,56)-time-1.495008607322E12msNO CAR TAKE
+request:(60,41)------(53,22)-time-1.495008607322E12msNO CAR TAKE
+request:(70,79)------(45,27)-time-1.495008607322E12msDONE BY CAR10
+3s_window_send_applyCAR10-(72,79)credit:7
+request:(38,55)------(58,43)-time-1.495008607322E12msDONE BY CAR59
+3s_window_send_applyCAR59-(40,50)credit:10
+3s_window_send_applyCAR68-(54,49)credit:10
+3s_window_send_applyCAR96-(43,50)credit:11
+request:(75,26)------(67,67)-time-1.495008607322E12msNO CAR TAKE
+request:(56,60)------(63,43)-time-1.495008607322E12msNO CAR TAKE
+request:(73,52)------(52,55)-time-1.495008607323E12msDONE BY CAR91
+3s_window_send_applyCAR9-(73,53)credit:6
+3s_window_send_applyCAR91-(67,45)credit:1
+request:(51,76)------(65,45)-time-1.495008607323E12msNO CAR TAKE
+request:(61,78)------(36,0)-time-1.495008607323E12msNO CAR TAKE
+request:(53,30)------(9,27)-time-1.495008607323E12msNO CAR TAKE
+request:(32,55)------(15,26)-time-1.495008607323E12msNO CAR TAKE
+request:(2,45)------(56,2)-time-1.495008607323E12msNO CAR TAKE
+request:(6,2)------(30,49)-time-1.495008607323E12msDONE BY CAR86
+3s_window_send_applyCAR86-(9,10)credit:7
+request:(58,20)------(13,64)-time-1.495008607323E12msNO CAR TAKE
+request:(11,35)------(16,37)-time-1.495008607323E12msNO CAR TAKE
+request:(40,64)------(59,36)-time-1.495008607323E12msNO CAR TAKE
+request:(37,33)------(2,22)-time-1.495008607323E12msNO CAR TAKE
+request:(31,50)------(69,18)-time-1.495008607323E12msNO CAR TAKE
+request:(23,37)------(58,55)-time-1.495008607323E12msNO CAR TAKE
+request:(44,26)------(37,76)-time-1.495008607323E12msNO CAR TAKE
+request:(9,26)------(53,14)-time-1.495008607323E12msDONE BY CAR39
+3s_window_send_applyCAR39-(11,21)credit:8
+3s_window_send_applyCAR76-(17,26)credit:12
+3s_window_send_applyCAR83-(20,25)credit:6
+3s_window_send_applyCAR89-(14,27)credit:9
+request:(57,12)------(78,57)-time-1.495008607323E12msNO CAR TAKE
+request:(50,74)------(62,2)-time-1.495008607323E12msDONE BY CAR40
+3s_window_send_applyCAR40-(51,71)credit:8
+request:(53,14)------(30,49)-time-1.495008607323E12msDONE BY CAR17
+3s_window_send_applyCAR8-(52,18)credit:8
+3s_window_send_applyCAR17-(54,24)credit:6
+request:(64,22)------(56,44)-time-1.495008607323E12msNO CAR TAKE
+request:(46,72)------(0,29)-time-1.495008607323E12msDONE BY CAR74
+3s_window_send_applyCAR40-(51,72)credit:8
+3s_window_send_applyCAR74-(49,78)credit:12
+request:(13,62)------(16,70)-time-1.495008607323E12msNO CAR TAKE
+request:(73,34)------(51,11)-time-1.495008607323E12msNO CAR TAKE
+request:(57,21)------(78,14)-time-1.495008607323E12msNO CAR TAKE
+request:(70,8)------(22,25)-time-1.495008607323E12msNO CAR TAKE
+request:(36,30)------(50,19)-time-1.495008607324E12msNO CAR TAKE
+request:(30,73)------(46,5)-time-1.495008607324E12msNO CAR TAKE
+request:(2,33)------(24,70)-time-1.495008607324E12msNO CAR TAKE
+request:(70,19)------(59,35)-time-1.495008607324E12msNO CAR TAKE
+request:(38,22)------(6,26)-time-1.495008607324E12msNO CAR TAKE
+request:(12,57)------(57,37)-time-1.495008607324E12msDONE BY CAR81
+3s_window_send_applyCAR46-(14,58)credit:5
+3s_window_send_applyCAR48-(9,48)credit:7
+3s_window_send_applyCAR81-(12,52)credit:8
+request:(58,8)------(27,69)-time-1.495008607324E12msNO CAR TAKE
+request:(54,61)------(26,36)-time-1.495008607324E12msNO CAR TAKE
+request:(67,34)------(64,44)-time-1.495008607324E12msNO CAR TAKE
+request:(56,5)------(14,54)-time-1.495008607324E12msDONE BY CAR60
+3s_window_send_applyCAR11-(64,4)credit:12
+3s_window_send_applyCAR23-(50,13)credit:7
+3s_window_send_applyCAR32-(54,6)credit:11
+3s_window_send_applyCAR60-(56,9)credit:8
+request:(47,69)------(8,42)-time-1.495008607324E12msNO CAR TAKE
+request:(28,9)------(60,5)-time-1.495008607324E12msNO CAR TAKE
